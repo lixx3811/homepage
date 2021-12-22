@@ -8,21 +8,12 @@
     <div class="page-content">
       <div class="wrapper">
         <div class="work">
-          <p>
-            <font face="verdana"><i>"自诚明，谓之性。自明诚，谓之教。诚则明矣，明则诚矣。"</i></font><div align="right"><font face="verdana">- 《中庸》</font>
-          </p>
-        </div>
-        <div class="work">
           <h1 class="page-heading">Publication</h1>
           {% for item in page.pubs %}
           <div class="work-item">
-            <img
-              src="{{ item.image.src | absolute_url }}"
-              alt="{{ item.image.alt }}"
-              class="work-bubble"
-            />
             <span class="work-text">
-              {{ item.description }}
+              <p>{{ item.description }}</p>
+              <p>{{ item.authors }}</p>
               <details>
                 <summary>Click for Abstract</summary>
 

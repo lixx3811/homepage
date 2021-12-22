@@ -7,8 +7,9 @@ pubs:
     image:
       src: /assets/img/work/pha.png
       alt: PHA
-    description: <strong>Find and Replace&#58; R&D Investment Following the Erosion of Existing Products,</strong> <i>with <a href="https://carlsonschool.umn.edu/faculty/richard-thakor" target="_blank">Richard T. Thakor</a> and <a href="https://www.hbs.edu/faculty/Pages/profile.aspx?facId=951435" target="_blank">Joshua L. Krieger</a></i> [<a href="https://www.dropbox.com/s/qthk3a8ul87a887/WP_Find_Replace.pdf?dl=0" target="_blank">PDF</a>]
-    publication: Accepted, <i>Management Science.</i>
+    description: <strong>Find and Replace&#58; R&D Investment Following the Erosion of Existing Products</strong> [<a href="https://www.dropbox.com/s/qthk3a8ul87a887/WP_Find_Replace.pdf?dl=0" target="_blank">PDF</a>]
+    authors: <a href="https://www.hbs.edu/faculty/Pages/profile.aspx?facId=951435" target="_blank">Joshua L. Krieger</a>, Xuelin Li, and <a href="https://carlsonschool.umn.edu/faculty/richard-thakor" target="_blank">Richard T. Thakor</a> 
+    publication: <i>Management Science</i>, forthcoming.
     abstract: How do innovative firms react when existing products experience negative shocks? We explore this question with detailed project-level data from drug development firms. Using FDA Public Health Advisories as idiosyncratic negative shocks to approved drugs, we examine how drug makers react through investment decisions. Following these shocks, affected firms increase R&D expenditures, driven by a higher likelihood of acquiring external innovations, rather than developing novel projects internally. Such acquisition activities are concentrated in firms with weak research pipelines. We also find that competing developers move resources away from the affected therapeutic areas. Our results show how investments in specialized commercialization capital create path dependencies and alter the direction of R&D investments.
 
 items:
