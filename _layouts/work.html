@@ -12,10 +12,10 @@
           {% for item in page.pubs %}
           <div class="work-item">
             <span class="work-text">
-              {{ item.description }}
-              {{ item.authors }}
+              {{ item.description }}<br />
+              {{ item.authors }}<br />
               {% if item.publication != "" and item.publication != nil %}
-                <p>{{ item.publication }}</p>
+                {{ item.publication }}<br />
               {% endif %}
               {% if item.coverage != "" and item.coverage != nil %}
                 <p style="color:#70876c">{{ item.coverage }}</p>
