@@ -10,24 +10,25 @@
         <div class="work">
           <h1 class="page-heading">Publication</h1>
           {% for item in page.pubs %}
-          <div class="work-item">
+          <div class="work-item" style="margin-bottom: -2em;">
             <span class="work-text">
-              {{ forloop.counter }}.{{ item.description }}<br />
+              <span style="color:#66DFCC;background-color:#E9FFE9"><strong>&nbsp;{{ item.numbering }}&nbsp;</strong></span>
+              {{ item.description }}<br />
               {{ item.authors }}<br />
               {% if item.publication != "" and item.publication != nil %}
                 {{ item.publication }}<br />
               {% endif %}
               {% if item.coverage != "" and item.coverage != nil %}
-                <p style="color:#70876c">{{ item.coverage }}</p>
+                <p> - {{ item.coverage }}</p>
+              {% endif %}
+              {% if item.award != "" and item.award != nil %}
+                <p> - {{ item.award }}</p>
               {% endif %}
               <details>
                 <summary>Click for Abstract</summary>
-                <p>
                   {{ item.abstract }}
-                </p>
               </details>
             </span>
-            
           </div>
           {% endfor %}
 
@@ -35,30 +36,45 @@
 
 
           {% for item in page.items %}
-          <div class="work-item">
-            <img
-              src="{{ item.image.src | absolute_url }}"
-              alt="{{ item.image.alt }}"
-              class="work-bubble"
-            />
+          <div class="work-item" style="margin-bottom: -2em;">
             <span class="work-text">
-              {{ item.description }}
+              <span style="color:#66DFCC;background-color:#E9FFE9"><strong>&nbsp;{{ item.numbering }}&nbsp;</strong></span>
+              {{ item.description }}<br />
+              {{ item.authors }}<br />
+              {% if item.publication != "" and item.publication != nil %}
+                {{ item.publication }}<br />
+              {% endif %}
+              {% if item.coverage != "" and item.coverage != nil %}
+                <p style="margin: 0em;"> - {{ item.coverage }}</p>
+              {% endif %}
+              {% if item.award != "" and item.award != nil %}
+                <p style="margin: 0em;"> - {{ item.award }}</p>
+              {% endif %}
               <details>
                 <summary>Click for Abstract</summary>
-
-                <p>
                   {{ item.abstract }}
-                </p>
               </details>
-              {% if item.publication != "" and item.publication != nil %}
-                <p style="color:#70876c">{{ item.publication }}</p>
-              {% endif %}
             </span>
-            
           </div>
           {% endfor %}
           <h1 class="page-heading">In Progress</h1>
-          {{ content }}
+          {% for item in page.progress %}
+          <div class="work-item" style="margin-bottom: -2em;">
+            <span class="work-text">
+              <span style="color:#66DFCC;background-color:#E9FFE9"><strong>&nbsp;{{ item.numbering }}&nbsp;</strong></span>
+              {{ item.description }}<br />
+              {% if item.publication != "" and item.publication != nil %}
+                {{ item.publication }}<br />
+              {% endif %}
+              {% if item.coverage != "" and item.coverage != nil %}
+                <p style="margin: 0em;"> - {{ item.coverage }}</p>
+              {% endif %}
+              {% if item.award != "" and item.award != nil %}
+                <p style="margin: 0em;"> - {{ item.award }}</p>
+              {% endif %}
+            </span>
+          </div>
+          {% endfor %}
         </div>
       </div>
     </div>

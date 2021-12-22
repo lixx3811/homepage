@@ -13,9 +13,9 @@ profile_picture:
 
 <strong>Research Interest:</strong>
 <ul>
-<li style="list-style-type:circle;font-size:14px">Entrepreneurial Finance;</li>
 <li style="list-style-type:circle;font-size:14px">Innovation;</li>
-<li style="list-style-type:circle;font-size:14px">Healthcare;</li>
+<li style="list-style-type:circle;font-size:14px">Healthcare Finance;</li>
+<li style="list-style-type:circle;font-size:14px">Entrepreneurial Finance;</li>
 <li style="list-style-type:circle;font-size:14px">Information Economics.</li>
 </ul>
 
