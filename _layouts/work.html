@@ -15,11 +15,13 @@
               {{ item.description }}
               {{ item.authors }}
               {% if item.publication != "" and item.publication != nil %}
-                <p style="color:#70876c">{{ item.publication }}</p>
+                <p>{{ item.publication }}</p>
+              {% endif %}
+              {% if item.coverage != "" and item.coverage != nil %}
+                <p style="color:#70876c">{{ item.coverage }}</p>
               {% endif %}
               <details>
                 <summary>Click for Abstract</summary>
-
                 <p>
                   {{ item.abstract }}
                 </p>
