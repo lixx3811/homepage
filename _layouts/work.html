@@ -12,7 +12,7 @@
           {% for item in page.pubs %}
           <div class="work-item">
             <span class="work-text">
-              enumerate(item){{ item.description }}<br />
+              {{ forloop.counter }}.{{ item.description }}<br />
               {{ item.authors }}<br />
               {% if item.publication != "" and item.publication != nil %}
                 {{ item.publication }}<br />
