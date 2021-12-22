@@ -12,8 +12,11 @@
           {% for item in page.pubs %}
           <div class="work-item">
             <span class="work-text">
-              <p>{{ item.description }}</p>
-              <p>{{ item.authors }}</p>
+              {{ item.description }}
+              {{ item.authors }}
+              {% if item.publication != "" and item.publication != nil %}
+                <p style="color:#70876c">{{ item.publication }}</p>
+              {% endif %}
               <details>
                 <summary>Click for Abstract</summary>
 
@@ -21,9 +24,6 @@
                   {{ item.abstract }}
                 </p>
               </details>
-              {% if item.publication != "" and item.publication != nil %}
-                <p style="color:#70876c">{{ item.publication }}</p>
-              {% endif %}
             </span>
             
           </div>
