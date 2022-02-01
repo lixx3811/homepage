@@ -15,6 +15,7 @@ items:
     description: <strong>Common Ownership and Innovation Efficiency</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479439" target="_blank">PDF</a>]  [<a href="https://www.dropbox.com/s/jemf5sje5v8rn7v/OnlineAppendix_Li_Liu_Taylor.pdf?dl=0" target="_blank">Online Appendix</a>]
     authors: Xuelin Li, <a href="https://fnce.wharton.upenn.edu/profile/tongl/#awards" target="_blank">Tong Liu</a>, and <a href="http://finance-faculty.wharton.upenn.edu/luket/" target="_blank">Lucian A. Taylor</a>
     numbering: 2
+    publication: <strong><i>Journal of Financial Economics</i></strong>, revise and resubmit.
     coverage: Covered by <a href="https://knowledge.wharton.upenn.edu/article/luke-taylor-common-ownership-research/" target="_blank">Knowledge@Wharton</a>
     abstract: How does common ownership affect innovation? We study this question using project-level data on pharmaceutical startups and their venture capital (VC) investors. We find that common VC ownership reduces duplication of R&D in patent races. Specifically, common ownership leads VCs to shut down lagging drug projects, withhold funding from lagging startups, and redirect those startups' innovation. These results support theories dating back to Loury (1979)&#58; By coordinating R&D efforts across firms in a patent race, a common owner can reduce excess R&D. Consistent with common ownership improving innovation efficiency, common ownership rates are positively correlated with the ratio of R&D output to funding.
   - title: MoD
