@@ -4,7 +4,7 @@ title: Research
 slug: /Research
 pubs:
   - title: PHA
-    description: <strong>Find and Replace&#58; R&D Investment Following the Erosion of Existing Products</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3240344" target="_blank">PDF</a>]
+    description: <strong>Find and Replace&#58; R&D Investment Following the Erosion of Existing Products</strong> [<a href="https://www.dropbox.com/s/mchkrlilba17g54/mnsc.2021.4243.pdf?dl=0" target="_blank">PDF</a>]  [<a href="https://www.dropbox.com/s/4xwwueu9if4jlvf/mnsc.2021.4243.sm1.pdf?dl=0" target="_blank">Online Appendix</a>]  [<a href="https://services.informs.org/dataset/mnsc/download.php?doi=mnsc.2021.4243" target="_blank">Replication Package</a>]
     authors: <a href="https://www.hbs.edu/faculty/Pages/profile.aspx?facId=951435" target="_blank">Joshua L. Krieger</a>, Xuelin Li, and <a href="https://carlsonschool.umn.edu/faculty/richard-thakor" target="_blank">Richard T. Thakor</a> 
     publication: <strong><i>Management Science</i></strong>, forthcoming.
     numbering: 1
