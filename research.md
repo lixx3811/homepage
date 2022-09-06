@@ -28,6 +28,7 @@ items:
   - title: telemuni
     description: <strong>Virtual Competition and Cost of Capital&#58; Evidence from Telehealth</strong> [<a href="https://www.dropbox.com/s/km3y72j0ju885dl/CLY_TeleMuni.pdf?dl=0" target="_blank">PDF</a>]
     authors: <a href="https://directory.smeal.psu.edu/kjr15" target="_blank">Kimberly Cornaggia</a>, Xuelin Li, and <a href="https://sites.google.com/view/zihanye/home" target="_blank">Zihan Ye</a>
+    publication: <strong><i>Review of Financial Studies</i></strong>, revise and resubmit.
     numbering: 4
     award: Semifinalist for Corporate Finance Best Paper, 2021 FMA Annual Meeting
     abstract: We exploit the staggered implementation of telehealth parity laws to provide causal evidence that virtual competition adversely affects rural U.S. hospitals' financing costs. Using pre-pandemic data, we find that the competition from urban hospitals adopting telehealth services negatively affects rural hospitals' credit ratings, offer yields, and trade prices in the municipal bond market. We identify the channel for these negative effects with hospital financial reports and medical claim data&#58; telehealth services redistribute revenues from rural to urban hospitals, which decrease rural hospital profitability and increase financial distress. Overall, we conclude that virtual competition creates financial distress for rural hospitals.
