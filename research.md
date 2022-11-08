@@ -9,7 +9,7 @@ pubs:
     publication: <strong><i>Management Science</i></strong>, 68(9):6552-6571 (September 2022).
     numbering: 1
     abstract: How do innovative firms react when existing products experience negative shocks? We explore this question with detailed project-level data from drug development firms. Using FDA Public Health Advisories as idiosyncratic negative shocks to approved drugs, we examine how drug makers react through investment decisions. Following these shocks, affected firms increase R&D expenditures, driven by a higher likelihood of acquiring external innovations, rather than developing novel projects internally. Such acquisition activities are concentrated in firms with weak research pipelines. We also find that competing developers move resources away from the affected therapeutic areas. Our results show how investments in specialized commercialization capital create path dependencies and alter the direction of R&D investments.
-      - title: VCPharm
+  - title: VCPharm
     description: <strong>Common Ownership and Innovation Efficiency</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479439" target="_blank">PDF</a>]  [<a href="https://www.dropbox.com/s/jemf5sje5v8rn7v/OnlineAppendix_Li_Liu_Taylor.pdf?dl=0" target="_blank">Online Appendix</a>]
     authors: Xuelin Li, <a href="https://fnce.wharton.upenn.edu/profile/tongl/#awards" target="_blank">Tong Liu</a>, and <a href="http://finance-faculty.wharton.upenn.edu/luket/" target="_blank">Lucian A. Taylor</a>
     publication: <strong><i>Journal of Financial Economics</i></strong>, accepted.
