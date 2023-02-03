@@ -41,7 +41,7 @@ items:
   - title: Pivot
     description: <strong>Pivots and Prestige&#58; Venture Capital Contracts with Experimentation</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3481301" target="_blank">PDF</a>]
     authors: Xuelin Li, and <a href="https://carlsonschool.umn.edu/faculty/martin-szydlowski" target="_blank">Martin Szydlowski</a>
-    publication: <strong><i>American Economic Journal: Micro</i></strong>, reject and resubmit.
+    publication: <strong><i>American Economic Journal&#58; Micro</i></strong>, reject and resubmit.
     numbering: 6
     abstract: We study venture capital financing with experimentation. An entrepreneur contracts with an investor and has private information about a project, which requires costly experimentation by both parties to succeed. In equilibrium, investors learn about the project from the arrival of exogenous information and from the entrepreneur's contract offers. The optimal contract features vesting and dilution, consistent with empirical evidence. Pivots and prestige projects emerge as signaling devices. Technological progress, which lowers the cost of experimentation or which increases the rate of learning, makes entrepreneurs pivot more aggressively in equilibrium. 
   - title: Hype
