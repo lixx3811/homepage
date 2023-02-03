@@ -12,7 +12,7 @@ pubs:
   - title: VCPharm
     description: <strong>Common Ownership and Innovation Efficiency</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479439" target="_blank">PDF</a>]  [<a href="https://www.dropbox.com/s/jemf5sje5v8rn7v/OnlineAppendix_Li_Liu_Taylor.pdf?dl=0" target="_blank">Online Appendix</a>]
     authors: Xuelin Li, <a href="https://fnce.wharton.upenn.edu/profile/tongl/#awards" target="_blank">Tong Liu</a>, and <a href="http://finance-faculty.wharton.upenn.edu/luket/" target="_blank">Lucian A. Taylor</a>
-    publication: <strong><i>Journal of Financial Economics</i></strong>, accepted.
+    publication: <strong><i>Journal of Financial Economics</i></strong>, Volume 147, Issue 3, Pages 475-497 (March 2023).
     numbering: 2
     coverage: Covered by <a href="https://knowledge.wharton.upenn.edu/article/luke-taylor-common-ownership-research/" target="_blank">Knowledge@Wharton</a>
     abstract: How does common ownership affect innovation? We study this question using project-level data on pharmaceutical startups and their venture capital (VC) investors. We find that common ownership leads VCs to hold back projects, withhold funding, and redirect innovation at lagging startups. Effects are stronger where R&D costs are larger, consistent with common owners aiming to cut duplicate costs. Effects are also stronger where technological similarity is greater and preexisting competition is lower, consistent with common owners seeking market power for their surviving projects. Overall, common VC ownership appears to generate social benefits, via improved innovation efficiency, but also social costs.
@@ -41,6 +41,7 @@ items:
   - title: Pivot
     description: <strong>Pivots and Prestige&#58; Venture Capital Contracts with Experimentation</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3481301" target="_blank">PDF</a>]
     authors: Xuelin Li, and <a href="https://carlsonschool.umn.edu/faculty/martin-szydlowski" target="_blank">Martin Szydlowski</a>
+    publication: <strong><i>American Economic Journal: Micro</i></strong>, reject and resubmit.
     numbering: 6
     abstract: We study venture capital financing with experimentation. An entrepreneur contracts with an investor and has private information about a project, which requires costly experimentation by both parties to succeed. In equilibrium, investors learn about the project from the arrival of exogenous information and from the entrepreneur's contract offers. The optimal contract features vesting and dilution, consistent with empirical evidence. Pivots and prestige projects emerge as signaling devices. Technological progress, which lowers the cost of experimentation or which increases the rate of learning, makes entrepreneurs pivot more aggressively in equilibrium. 
   - title: Hype
