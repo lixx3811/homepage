@@ -4,6 +4,7 @@ profile_picture:
   src: /assets/img/photo.jpg
   alt: website picture
 ---
+Starting from July 2023, I will join the Columbia Business School as an Assistant Professor of Finance.
 
 <strong>Education:</strong>
 <ul>
