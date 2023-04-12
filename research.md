@@ -47,6 +47,7 @@ items:
   - title: Hype
     description: <strong>Hype Cycles&#58; Dynamic Information Design with Two Audiences</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3923908" target="_blank">PDF</a>]
     authors: Xuelin Li, <a href="https://carlsonschool.umn.edu/faculty/martin-szydlowski" target="_blank">Martin Szydlowski</a>, and <a href="https://carlsonschool.umn.edu/faculty/fangyuan-yu" target="_blank">Fangyuan Yu</a>
+    publication: <strong><i>Journal of the European Economic Association</i></strong>, revise and resubmit.
     numbering: 7
     abstract: We study dynamic Bayesian persuasion in an entry game. A sender publicly reveals information to an adopter and a competitor. When the sender's loss from competition is small, the optimal policy features hype cycles&#58; the sender first exaggerates the value of a technology to attract the adopter, and then reveals negative information to deter the competitor. Otherwise, the optimal policy features caution&#58; the sender first underplays the value of the technology and reveals positive information later. Hype cycles are more severe in stagnant industries and with higher threat of competition, and arise in industries where the adopter's and the competitor's entry decisions are complementary.
   - title: Hype
