@@ -4,8 +4,6 @@ profile_picture:
   src: /assets/img/photo.jpg
   alt: website picture
 ---
-Starting from July 2023, I will join the Columbia Business School as an Assistant Professor of Finance.
-
 <strong>Education:</strong>
 <ul>
 <li style="list-style-type:circle;font-size:14px">Ph.D. in Finance, University of Minnesota (09/2014 - 06/2020).</li>
@@ -39,4 +37,4 @@ Starting from July 2023, I will join the Columbia Business School as an Assistan
 
 <strong>Teaching:</strong>
 <ul>
-<li style="list-style-type:circle;font-size:14px">FINA 469 - Investment Analysis and Portfolio Management.</li>
+<li style="list-style-type:circle;font-size:14px">FINCB 8306 Capital Markets and Investments.</li>
