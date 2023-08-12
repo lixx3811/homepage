@@ -4,6 +4,10 @@ profile_picture:
   src: /assets/img/photo.jpg
   alt: website picture
 ---
+<strong>Biography:</strong>
+
+My research bridges the studies on finance and healthcare, which are two crucial academic fields in the broad economic literature. The connection is through two classical decisions in corporate finance: financing and investment. To conduct this research, I utilize novel datasets on granular operation and innovation information in the healthcare industry and apply both empirical and theoretical methods through the finance perspective. My research interest focuses on the financing of U.S. hospital industries and innovation investments in the healthcare industry.
+
 <strong>Education:</strong>
 <ul>
 <li style="list-style-type:circle;font-size:14px">Ph.D. in Finance, University of Minnesota (09/2014 - 06/2020).</li>
@@ -12,8 +16,8 @@ profile_picture:
 
 <strong>Research Interest:</strong>
 <ul>
-<li style="list-style-type:circle;font-size:14px">Innovation;</li>
 <li style="list-style-type:circle;font-size:14px">Healthcare Finance;</li>
+<li style="list-style-type:circle;font-size:14px">Innovation;</li>
 <li style="list-style-type:circle;font-size:14px">Entrepreneurial Finance;</li>
 <li style="list-style-type:circle;font-size:14px">Information Economics.</li>
 </ul>
