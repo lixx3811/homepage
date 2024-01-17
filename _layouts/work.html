@@ -8,11 +8,11 @@
     <div class="page-content">
       <div class="wrapper">
         <div class="work">
-          <h1 class="page-heading">Publication</h1>
+          <h1 class="page-heading" style="color:#EA522A">Publication</h1>
           {% for item in page.pubs %}
           <div class="work-item" style="margin-bottom: -2em;">
             <span class="work-text">
-              <span style="color:#F8FFF4;background-color:#2E5073"><strong>&nbsp;{{ item.numbering }}&nbsp;</strong></span>
+              <span style="color:#F8FFF4"><strong>&nbsp;{{ item.numbering }}&nbsp;</strong></span>
               {{ item.description }}<br />
               {{ item.authors }}<br />
               {% if item.publication != "" and item.publication != nil %}
@@ -32,13 +32,13 @@
           </div>
           {% endfor %}
 
-          <h1 class="page-heading">Working Paper</h1>
+          <h1 class="page-heading" style="color:#EA522A">Working Paper</h1>
 
 
           {% for item in page.items %}
           <div class="work-item" style="margin-bottom: -2em;">
             <span class="work-text">
-              <span style="color:#F8FFF4;background-color:#2E5073"><strong>&nbsp;{{ item.numbering }}&nbsp;</strong></span>
+              <span style="color:#F8FFF4"><strong>&nbsp;{{ item.numbering }}&nbsp;</strong></span>
               {{ item.description }}<br />
               {{ item.authors }}<br />
               {% if item.publication != "" and item.publication != nil %}
@@ -57,11 +57,11 @@
             </span>
           </div>
           {% endfor %}
-          <h1 class="page-heading">In Progress</h1>
+          <h1 class="page-heading" style="color:#EA522A">In Progress</h1>
           {% for item in page.progress %}
           <div class="work-item" style="margin-bottom: -2em;">
             <span class="work-text">
-              <span style="color:#F8FFF4;background-color:#2E5073"><strong>&nbsp;{{ item.numbering }}&nbsp;</strong></span>
+              <span style="color:#F8FFF4"><strong>&nbsp;{{ item.numbering }}&nbsp;</strong></span>
               {{ item.description }}<br />
               {% if item.publication != "" and item.publication != nil %}
                 {{ item.publication }}<br />
