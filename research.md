@@ -21,14 +21,14 @@ items:
   - title: MoD
     description: <strong>Merchants of Death&#58; The Effect of Credit Supply Shocks on Hospital Outcomes,</strong> National Bureau of Economic Research No.w28709 [<a href="https://www.dropbox.com/s/zmoxuzx2k8yxvcq/AKLT_Banking.pdf?dl=0" target="_blank">PDF</a>]
     authors: <a href = "https://sites.google.com/site/cyrusaghamolla/home" target="_blank">Cyrus Aghamolla</a>, <a href = "https://carlsonschool.umn.edu/faculty/pinar-karaca-mandic" target="_blank">Pinar Karaca-Mandic</a>, Xuelin Li, and <a href = "https://carlsonschool.umn.edu/faculty/richard-thakor" target="_blank">Richard T. Thakor</a>
-    publication: <strong><i>American Economic Review</i></strong>, revise and resubmit.
+    publication: <strong><i>American Economic Review</i></strong>, conditionally accepted.
     numbering: 3
     coverage: Covered by <a href="https://www.bloomberg.com/news/articles/2021-05-18/stress-tests-for-hospital-lenders-mean-more-pain-for-patients" target="_blank">Bloomberg</a><br> - Best Paper Award, 2022 Financial Markets and Corporate Governance Conference
     abstract: This study examines the link between credit supply and hospital health outcomes. We use bank stress tests as exogenous shocks to credit access for hospitals that have lending relationships with tested banks. We find that affected hospitals shift their operations to increase resource utilization following a negative credit shock but reduce the quality of their care to patients across a variety of measures, including a significant increase in risk-adjusted readmission and mortality rates. The results indicate that access to credit can affect the quality of healthcare hospitals deliver, pointing to important spillover effects of credit market frictions on health outcomes.
   - title: telemuni
     description: <strong> Financial Effects of Remote Product Delivery&#58; Evidence from Hospitals</strong> [<a href="https://www.dropbox.com/s/km3y72j0ju885dl/CLY_TeleMuni.pdf?dl=0" target="_blank">PDF</a>]
     authors: <a href="https://directory.smeal.psu.edu/kjr15" target="_blank">Kimberly Cornaggia</a>, Xuelin Li, and <a href="https://sites.google.com/view/zihanye/home" target="_blank">Zihan Ye</a>
-    publication: <strong><i>Review of Financial Studies</i></strong>, revise and resubmit.
+    publication: <strong><i>Review of Financial Studies</i></strong>, conditionally accepted.
     numbering: 4
     award: Semifinalist for Corporate Finance Best Paper, 2021 FMA Annual Meeting
     abstract: We study financial effects of remote product delivery in the healthcare industry. Exploiting staggered law adoption for identification, we find that technology innovation facilitating telehealth provision redistributes hospital operations and access to capital away from rural communities. As urban telehealth providers acquire rural patients, rural hospitals experience decreased revenue and profit, credit rating downgrades, increased cost of capital, and ultimately risk of closure. Although telehealth reduces travel costs, some communities lose access to acute care. Overall, we conclude that healthcare technology advancement has financial consequences as well as healthcare effects and that benefits are unequally distributed.
@@ -53,7 +53,7 @@ items:
   - title: Hype
     description: <strong>Healthcare across Boundaries&#58; Urban-Rural Differences in the Financial and Healthcare Consequences of Telehealth Adoption</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3807577" target="_blank">PDF</a>]
     authors: <a href="https://carlsonschool.umn.edu/faculty/meizi-zhou" target="_blank">Meizi Zhou</a>, Xuelin Li, and <a href="https://www.bu.edu/questrom/profile/gordon-burtch/" target="_blank">Gordon Burtch</a>
-    publication: <strong><i>Information Systems Research</i></strong>, Accepted.
+    publication: <strong><i>Information Systems Research</i></strong>, accepted.
     numbering: 8
     award: Best Paper Award, 19th ZEW Conference on the Economics of Information and Communication Technologies
     abstract: We study the impacts of telehealth adoption on geographic competition among urban and rural healthcare providers. We consider a quasi-natural experiment&#58; states' entry into the Interstate Medical Licensure Compact, wherein the entry events facilitate healthcare providers to adopt telehealth technology. By analyzing a representative sample of providers, we first establish the Compact-entry shock's validity and its positive effect on the supply of medical services. We then report evidence that there are service and payment shifts from rural providers to urban providers, i.e., urban providers are more likely to benefit from the Compact-entry financially. Relying on patients' telehealth reimbursement claim data, we observe two mechanisms contributing to the revenue re-distribution&#58; the substitution and gateway effects of telehealth. Finally, we show that telehealth readiness and service quality moderate the impact of telehealth adoption. These findings speak to both potentially positive and negative consequences for welfare.
