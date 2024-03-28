@@ -16,22 +16,21 @@ pubs:
     numbering: 2
     coverage: Covered by <a href="https://knowledge.wharton.upenn.edu/article/luke-taylor-common-ownership-research/" target="_blank">Knowledge@Wharton</a>
     abstract: How does common ownership affect innovation? We study this question using project-level data on pharmaceutical startups and their venture capital (VC) investors. We find that common ownership leads VCs to hold back projects, withhold funding, and redirect innovation at lagging startups. Effects are stronger where R&D costs are larger, consistent with common owners aiming to cut duplicate costs. Effects are also stronger where technological similarity is greater and preexisting competition is lower, consistent with common owners seeking market power for their surviving projects. Overall, common VC ownership appears to generate social benefits, via improved innovation efficiency, but also social costs.
+  - title: telemuni
+    description: <strong> Financial Effects of Remote Product Delivery&#58; Evidence from Hospitals</strong> [<a href="https://www.dropbox.com/s/km3y72j0ju885dl/CLY_TeleMuni.pdf?dl=0" target="_blank">PDF</a>]
+    authors: <a href="https://directory.smeal.psu.edu/kjr15" target="_blank">Kimberly Cornaggia</a>, Xuelin Li, and <a href="https://sites.google.com/view/zihanye/home" target="_blank">Zihan Ye</a>
+    publication: <strong><i>Review of Financial Studies</i></strong>, accepted.
+    numbering: 3
+    abstract: We study financial effects of remote product delivery in the healthcare industry. Exploiting staggered law adoption for identification, we find that technology innovation facilitating telehealth provision redistributes hospital operations and access to capital away from rural communities. As urban telehealth providers acquire rural patients, rural hospitals experience decreased revenue and profit, credit rating downgrades, increased cost of capital, and ultimately risk of closure. Although telehealth reduces travel costs, some communities lose access to acute care. Overall, we conclude that healthcare technology advancement has financial consequences as well as healthcare effects and that benefits are unequally distributed.
 
 items:
   - title: MoD
     description: <strong>Merchants of Death&#58; The Effect of Credit Supply Shocks on Hospital Outcomes,</strong> National Bureau of Economic Research No.w28709 [<a href="https://www.dropbox.com/s/zmoxuzx2k8yxvcq/AKLT_Banking.pdf?dl=0" target="_blank">PDF</a>]
     authors: <a href = "https://sites.google.com/site/cyrusaghamolla/home" target="_blank">Cyrus Aghamolla</a>, <a href = "https://carlsonschool.umn.edu/faculty/pinar-karaca-mandic" target="_blank">Pinar Karaca-Mandic</a>, Xuelin Li, and <a href = "https://carlsonschool.umn.edu/faculty/richard-thakor" target="_blank">Richard T. Thakor</a>
     publication: <strong><i>American Economic Review</i></strong>, conditionally accepted.
-    numbering: 3
+    numbering: 4
     coverage: Covered by <a href="https://www.bloomberg.com/news/articles/2021-05-18/stress-tests-for-hospital-lenders-mean-more-pain-for-patients" target="_blank">Bloomberg</a><br> - Best Paper Award, 2022 Financial Markets and Corporate Governance Conference
     abstract: This study examines the link between credit supply and hospital health outcomes. We use bank stress tests as exogenous shocks to credit access for hospitals that have lending relationships with tested banks. We find that affected hospitals shift their operations to increase resource utilization following a negative credit shock but reduce the quality of their care to patients across a variety of measures, including a significant increase in risk-adjusted readmission and mortality rates. The results indicate that access to credit can affect the quality of healthcare hospitals deliver, pointing to important spillover effects of credit market frictions on health outcomes.
-  - title: telemuni
-    description: <strong> Financial Effects of Remote Product Delivery&#58; Evidence from Hospitals</strong> [<a href="https://www.dropbox.com/s/km3y72j0ju885dl/CLY_TeleMuni.pdf?dl=0" target="_blank">PDF</a>]
-    authors: <a href="https://directory.smeal.psu.edu/kjr15" target="_blank">Kimberly Cornaggia</a>, Xuelin Li, and <a href="https://sites.google.com/view/zihanye/home" target="_blank">Zihan Ye</a>
-    publication: <strong><i>Review of Financial Studies</i></strong>, conditionally accepted.
-    numbering: 4
-    award: Semifinalist for Corporate Finance Best Paper, 2021 FMA Annual Meeting
-    abstract: We study financial effects of remote product delivery in the healthcare industry. Exploiting staggered law adoption for identification, we find that technology innovation facilitating telehealth provision redistributes hospital operations and access to capital away from rural communities. As urban telehealth providers acquire rural patients, rural hospitals experience decreased revenue and profit, credit rating downgrades, increased cost of capital, and ultimately risk of closure. Although telehealth reduces travel costs, some communities lose access to acute care. Overall, we conclude that healthcare technology advancement has financial consequences as well as healthcare effects and that benefits are unequally distributed.
   - title: Generic
     description: <strong>Paying off the Competition&#58; Market Power and Innovation Incentives,</strong> National Bureau of Economic Research No.w28964 [<a href="https://www.nber.org/papers/w28964" target="_blank">PDF</a>]
     authors: Xuelin Li, and <a href="https://alo.mit.edu/" target="_blank">Andrew W. Lo</a> and <a href="https://carlsonschool.umn.edu/faculty/richard-thakor" target="_blank">Richard T. Thakor</a>
