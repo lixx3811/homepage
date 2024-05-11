@@ -34,13 +34,14 @@ items:
   - title: Generic
     description: <strong>Paying off the Competition&#58; Market Power and Innovation Incentives,</strong> National Bureau of Economic Research No.w28964 [<a href="https://www.nber.org/papers/w28964" target="_blank">PDF</a>]
     authors: Xuelin Li, and <a href="https://alo.mit.edu/" target="_blank">Andrew W. Lo</a> and <a href="https://carlsonschool.umn.edu/faculty/richard-thakor" target="_blank">Richard T. Thakor</a>
-    numbering: 5
+publication: <strong><i>Review of Finance</i></strong>, revise and resubmit.    
+numbering: 5
     coverage: Covered by <a href="https://voxeu.org/article/how-pay-delay-affects-competition-and-innovation-pharmaceutical-industry" target="_blank">VoxEU</a>
     abstract: How does a firm’s market power in existing products affect its incentives to innovate? We explore this fundamental question using granular project-level and firm-level data from the pharmaceutical industry, focusing on a particular mechanism through which incumbent firms maintain their market power&#58; “reverse payment” or “pay-for-delay” agreements to delay the market entry of competitors. We first show that when firms are unfettered in their use of “pay-for-delay” agreements, they reduce their innovation activities in response to the potential entry of direct competitors. We then examine a legal ruling that subjected these agreements to antitrust litigation, thereby reducing the incentive to enter them. After the ruling, incumbent firms increased their net innovation activities in response to competitive entry. These effects center on firms with products that are more directly affected by competition. However, at the product therapeutic area level, we find a reduction in innovation by new entrants after the ruling in response to increased competition. Overall, these results are consistent with firms having reduced incentives to innovate when they are able to maintain their market power, highlighting a specific channel through which this occurs. 
   - title: Pivot
     description: <strong>Pivots and Prestige&#58; Venture Capital Contracts with Experimentation</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3481301" target="_blank">PDF</a>]
     authors: Xuelin Li, and <a href="https://carlsonschool.umn.edu/faculty/martin-szydlowski" target="_blank">Martin Szydlowski</a>
-    publication: <strong><i>American Economic Journal&#58; Micro</i></strong>, reject and resubmit.
+    publication: <strong><i>American Economic Journal&#58; Micro</i></strong>, conditionally accepted.
     numbering: 6
     abstract: We study venture capital financing with experimentation. An entrepreneur contracts with an investor and has private information about a project, which requires costly experimentation by both parties to succeed. In equilibrium, investors learn about the project from the arrival of exogenous information and from the entrepreneur's contract offers. The optimal contract features vesting and dilution, consistent with empirical evidence. Pivots and prestige projects emerge as signaling devices. Technological progress, which lowers the cost of experimentation or which increases the rate of learning, makes entrepreneurs pivot more aggressively in equilibrium. 
   - title: Hype
