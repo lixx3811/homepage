@@ -69,11 +69,14 @@ items:
     abstract: We assess how labor mobility affects intangible investment through the lens of a structural model that features knowledge spillovers and an agency conflict between investors and key employees. Our calibration to US data targets responses of employee turnover and firms' intangible investment to variation in workers' outside option values that are identified by state-level changes in degrees of non-compete enforcement. Counterfactual analysis finds that the current degree of restrictions on labor mobility across states is close to being optimal for both investors and workers.
 
 progress:
-  - title: jmp
-    description: <strong>The Race of Unicorns&#58; A Signaling Theory of Private Acquisitions</strong>
+  - title: sofld
+    description: <strong>The Social Cost of Liquidity Disclosure&#58; Evidence from Hospitals</strong>
     numbering: 1
-  - title: ss
-    description: <strong>Secret Scouting</strong> <i>with <a href="https://carlsonschool.umn.edu/faculty/fangyuan-yu" target="_blank">Fangyuan Yu</a></i> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3449798" target="_blank">PDF</a>]
+    authors: <a href = "https://sites.google.com/view/thomasbourveau/" target="_blank">Thomas Bourveau</a>, <a href = "https://www.columbia.edu/~xg2285/" target="_blank">Xavier Giroud</a>, <a href = "https://www.yifan-ji.com/" target="_blank">Yifan Ji</a>, and Xuelin Li
+    award: Winner of the 2024 John L. Weinberg/IRRCi Research Paper Competition
+  - title: ai
+    description: <strong>Can AI Distort Human Capital?</strong> 
+    authors: Xuelin Li, and <a href="https://meizizhou.github.io/homepage/" target="_blank">Meizi Zhou</a>
     numbering: 2
-    award: Best Student Paper Award, 2020 Midwest Finance Association Annual Meeting
+    award: Best Paper Award, The 14th Annual Conference on Health IT and Analytics (CHITA 2024)
 ---
