@@ -42,3 +42,4 @@ My research bridges the studies on finance and healthcare, which are two crucial
 <strong style="color:#64a1bd">Teaching:</strong>
 <ul>
 <li style="list-style-type:circle;font-size:14px">FINCB 8306 Capital Markets and Investments.</li>
+<li style="list-style-type:circle;font-size:14px">FINCB 8356 Financing Innovation in Healthcare</li>
