@@ -58,10 +58,15 @@ items:
     numbering: 8
     abstract: We study dynamic Bayesian persuasion in an entry game. A sender publicly reveals information to an adopter and a competitor. When the sender's loss from competition is small, the optimal policy features hype cycles&#58; the sender first exaggerates the value of a technology to attract the adopter, and then reveals negative information to deter the competitor. Otherwise, the optimal policy features caution&#58; the sender first underplays the value of the technology and reveals positive information later. Hype cycles are more severe in stagnant industries and with higher threat of competition, and arise in industries where the adopter's and the competitor's entry decisions are complementary.
   - title: opioidbank
-    description: <strong>Propagation of the Opioid Epidemic in the Banking Sector</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3923908" target="_blank">PDF</a>]
-    authors: Xuelin Li,  and <a href="https://sites.google.com/view/zihanye/home" target="_blank">Zihan Ye</a>
+    description: <strong>Propagation of the Opioid Epidemic in the Banking Sector</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4148134" target="_blank">PDF</a>]
+    authors: Xuelin Li, and <a href="https://sites.google.com/view/zihanye/home" target="_blank">Zihan Ye</a>
     numbering: 9
     abstract: We examine how public health crises undermine bank deposit funding and constrain lending activities. Using the opioid epidemic as our empirical setting, we document a negative link between local opioid supply and deposit growth at both the county and bank levels. Facing deposit drains, banks systematically reduce lending activities, including mortgage origination and approval, even in distant regions connected to the epidemic areas through banking networks. These reductions are more pronounced for retained loans and concentrate in smaller banks facing greater financial frictions and lacking geographic diversification. Our findings highlight the challenges to bank operations arising from population health conditions.
+  - title: rationedgrowth
+    description: <strong>Appropriated Growth</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4244951" target="_blank">PDF</a>]
+    authors: <a href = "https://sites.google.com/umn.edu/yuchen-chen/research?authuser=0" target="_blank">Yuchen Chen</a>, Xuelin Li, <a href = "https://carlsonschool.umn.edu/faculty/richard-thakor" target="_blank">Richard T. Thakor</a> and <a href="https://sites.google.com/site/cwardweb/colin-ward" target="_blank">Colin Ward</a>
+    numbering: 10
+    abstract: We assess how labor mobility affects intangible investment through the lens of a structural model that features knowledge spillovers and an agency conflict between investors and key employees. Our calibration to US data targets responses of employee turnover and firms' intangible investment to variation in workers' outside option values that are identified by state-level changes in degrees of non-compete enforcement. Counterfactual analysis finds that the current degree of restrictions on labor mobility across states is close to being optimal for both investors and workers.
 
 progress:
   - title: jmp
