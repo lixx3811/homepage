@@ -39,7 +39,7 @@ pubs:
   - title: Pivot
     description: <strong>Aggressive Pivots and Entrepreneurial Skill</strong> [<a href="https://www.dropbox.com/scl/fi/uz54npgxaf8vrt1rvsji1/LS_AEJ.pdf?rlkey=dwch8j8yffqvq80i2xd6y5ya4&dl=0" target="_blank">PDF</a>]
     authors: Xuelin Li, and <a href="https://sites.google.com/site/martinszydl/home" target="_blank">Martin Szydlowski</a>
-    publication: <strong><i>American Economic Journal&#58; Micro</i></strong>, conditionally accepted.
+    publication: <strong><i>American Economic Journal&#58; Micro</i></strong>, Forthcoming.
     numbering: 6
     abstract: We study pivots as signaling devices in a dynamic experimentation model. An entrepreneur receives funding from an investor and has private information about a project, which requires costly experimentation to succeed. The entrepreneur has a real option to pivot, i.e., to abandon the project and to start a new one. Investors learn about the project from the arrival of exogenous information and from the entrepreneur’s pivoting decisions. We characterize signaling equilibria in which high-skill entrepreneurs pivot early. Such early pivots are associated with a higher likelihood of success and with more favorable funding terms following the pivot.
 
