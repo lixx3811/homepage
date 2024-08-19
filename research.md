@@ -26,7 +26,7 @@ pubs:
   - title: telemuni
     description: <strong> Financial Effects of Remote Product Delivery&#58; Evidence from Hospitals</strong> [<a href="https://www.dropbox.com/scl/fi/a16f4ffoeeu0j38u3yyay/CLY_TeleMuni.pdf?rlkey=ukm0q2pm6mhhfrj2r6ejegowz&dl=0" target="_blank">PDF</a>]
     authors: <a href="https://directory.smeal.psu.edu/kjr15" target="_blank">Kimberly Cornaggia</a>, Xuelin Li, and <a href="https://sites.google.com/view/zihanye/home" target="_blank">Zihan Ye</a>
-    publication: <strong><i>Review of Financial Studies</i></strong>, Forthcoming.
+    publication: <strong><i>Review of Financial Studies</i></strong>, Volume 37, Issue 9, Pages 2817–2854 (September 2024).
     numbering: 4
     abstract: We study financial effects of remote product delivery in the healthcare industry. Exploiting staggered law adoption for identification, we find that telehealth provision redistributes hospital operations and access to capital away from rural communities. As urban telehealth providers acquire rural patients, rural hospitals experience decreased revenue and profit, credit rating downgrades, increased cost of capital, and ultimately risk of closure. Although telehealth reduces travel costs, some communities lose access to acute care. Overall, we conclude that remote healthcare services have financial consequences as well as real effects, and their benefits are unequally distributed.
   - title: isr
