@@ -72,6 +72,12 @@ items:
     authors: Xuelin Li, <a href = "https://sme.cuhk.edu.cn/en/node/1873" target="_blank">Sijie Wang</a>, <a href = "https://www.jiajiexu.com/" target="_blank">Jiajie Xu</a> and <a href="https://www.xiangzheng.info/" target="_blank">Xiang Zheng</a>
     numbering: 11
     abstract: Prior research suggests that specialized VC funds with small portfolios benefit startup performance due to active investor engagement. Using project-level data from the life science sector, we investigate this argument through a novel channel of VC activism&#58; the strategic decision of project prioritization. We document that despite more interactions from smaller and more focused VCs, their biotech startups are \textit{less} likely to exit via IPOs. Consistent with such activism prematurely prioritizing the research pipeline, startups backed by concentrated VCs exhibit slower progress in clinical trials and tend to discontinue projects due to pipeline priority rather than other reasons. For identification, we use limited partners' adoption of ESG objectives as instruments for affected VCs' portfolio size and diversification. Lastly, we highlight conflicting experimentation preferences between general partners and founding teams due to investment horizon and portfolio cannibalization.
+  - title: ai
+    description: <strong>Can AI Distort Human Capital?</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4929303" target="_blank">PDF</a>]
+    authors: Xuelin Li, and <a href="https://meizizhou.github.io/homepage/" target="_blank">Meizi Zhou</a>
+    numbering: 12
+    award: Best Paper Award, The 14th Annual Conference on Health IT and Analytics (CHITA 2024)
+    abstract: We document that interactions with manipulated AI can distort the development of human capital using the context of opioid prescription. Physicians in our sample adopted electronic health record software from a list of federally certified companies in 2011. Between 2016 and spring 2019, one company secretly embedded a biased AI reminder system to promote extended-release opioid sales. Affected physicians not only increased opioid claims relative to the control group during the treatment window but also maintained a higher propensity for prescriptions even after the removal of the biased function. This long-term distortion of human capital relies on the unconsciousness of AI biases and does not occur following other explicit promotions, such as pharmaceutical detailing payments. Using machine-learning algorithms, we quantify that human capital distortion explains 54% of the treatment effects in a physician decision model with dynamic learning. Experience with opioids, along with caution regarding elder patients, mitigates the distortion.
 
 progress:
   - title: sofld
@@ -79,9 +85,4 @@ progress:
     numbering: 1
     authors: <a href = "https://sites.google.com/view/thomasbourveau/" target="_blank">Thomas Bourveau</a>, <a href = "https://www.columbia.edu/~xg2285/" target="_blank">Xavier Giroud</a>, <a href = "https://www.yifan-ji.com/" target="_blank">Yifan Ji</a>, and Xuelin Li
     award: Winner of the 2024 John L. Weinberg/IRRCi Research Paper Competition
-  - title: ai
-    description: <strong>Can AI Distort Human Capital?</strong> 
-    authors: Xuelin Li, and <a href="https://meizizhou.github.io/homepage/" target="_blank">Meizi Zhou</a>
-    numbering: 2
-    award: Best Paper Award, The 14th Annual Conference on Health IT and Analytics (CHITA 2024)
 ---
