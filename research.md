@@ -42,15 +42,15 @@ pubs:
     publication: <strong><i>American Economic Journal&#58; Micro</i></strong>, Forthcoming.
     numbering: 6
     abstract: We study pivots as signaling devices in a dynamic experimentation model. An entrepreneur receives funding from an investor and has private information about a project, which requires costly experimentation to succeed. The entrepreneur has a real option to pivot, i.e., to abandon the project and to start a new one. Investors learn about the project from the arrival of exogenous information and from the entrepreneur’s pivoting decisions. We characterize signaling equilibria in which high-skill entrepreneurs pivot early. Such early pivots are associated with a higher likelihood of success and with more favorable funding terms following the pivot.
-
-items:
   - title: Generic
     description: <strong>Paying off the Competition&#58; Market Power and Innovation Incentives,</strong> National Bureau of Economic Research No.w28964 [<a href="https://www.nber.org/papers/w28964" target="_blank">PDF</a>]
     authors: Xuelin Li, and <a href="https://alo.mit.edu/" target="_blank">Andrew W. Lo</a> and <a href="https://carlsonschool.umn.edu/faculty/richard-thakor" target="_blank">Richard T. Thakor</a>
-    publication: <strong><i>Review of Finance</i></strong> <i>Special Issue on Finance and Product Markets</i>, conditionally accepted.
+    publication: <strong><i>Review of Finance</i></strong>, <i>Special Issue on Finance and Product Markets</i>, Accepted.
     numbering: 7
     coverage: Covered by <a href="https://voxeu.org/article/how-pay-delay-affects-competition-and-innovation-pharmaceutical-industry" target="_blank">VoxEU</a>, <a href="https://www.wsj.com/articles/new-biden-law-wont-kill-drug-cures-it-will-reshape-them-11673001018?st=b04qocoil0rnb5q" target="_blank">Wall Street Journal</a>
     abstract: How does a firm’s market power in existing products affect its incentives to innovate? We explore this fundamental question using granular project-level and firm-level data from the pharmaceutical industry, focusing on a particular mechanism through which incumbent firms maintain their market power&#58; “reverse payment” or “pay-for-delay” agreements to delay the market entry of competitors. We first show that when firms are unfettered in their use of “pay-for-delay” agreements, they reduce their innovation activities in response to the potential entry of direct competitors. We then examine a legal ruling that subjected these agreements to antitrust litigation, thereby reducing the incentive to enter them. After the ruling, incumbent firms increased their net innovation activities in response to competitive entry. These effects center on firms with products that are more directly affected by competition. However, at the product therapeutic area level, we find a reduction in innovation by new entrants after the ruling in response to increased competition. Overall, these results are consistent with firms having reduced incentives to innovate when they are able to maintain their market power, highlighting a specific channel through which this occurs. 
+
+items:
   - title: Hype
     description: <strong>Hype Cycles&#58; Dynamic Information Design with Two Audiences</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3923908" target="_blank">PDF</a>]
     authors: Xuelin Li, <a href="https://carlsonschool.umn.edu/faculty/martin-szydlowski" target="_blank">Martin Szydlowski</a>, and <a href="https://carlsonschool.umn.edu/faculty/fangyuan-yu" target="_blank">Fangyuan Yu</a>
