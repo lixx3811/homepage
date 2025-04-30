@@ -39,7 +39,7 @@ pubs:
   - title: Pivot
     description: <strong>Aggressive Pivots and Entrepreneurial Skill</strong> [<a href="https://www.dropbox.com/scl/fi/uz54npgxaf8vrt1rvsji1/LS_AEJ.pdf?rlkey=dwch8j8yffqvq80i2xd6y5ya4&dl=0" target="_blank">PDF</a>]
     authors: Xuelin Li, and <a href="https://sites.google.com/site/martinszydl/home" target="_blank">Martin Szydlowski</a>
-    publication: <strong><i>American Economic Journal&#58; Micro</i></strong>, Forthcoming.
+    publication: <strong><i>American Economic Journal&#58; Micro</i></strong>, Vol. 17, No. 2, pp. 28-65 (May 2025).
     numbering: 6
     abstract: We study pivots as signaling devices in a dynamic experimentation model. An entrepreneur receives funding from an investor and has private information about a project, which requires costly experimentation to succeed. The entrepreneur has a real option to pivot, i.e., to abandon the project and to start a new one. Investors learn about the project from the arrival of exogenous information and from the entrepreneur’s pivoting decisions. We characterize signaling equilibria in which high-skill entrepreneurs pivot early. Such early pivots are associated with a higher likelihood of success and with more favorable funding terms following the pivot.
   - title: Generic
@@ -49,37 +49,38 @@ pubs:
     numbering: 7
     coverage: Covered by <a href="https://voxeu.org/article/how-pay-delay-affects-competition-and-innovation-pharmaceutical-industry" target="_blank">VoxEU</a>, <a href="https://www.wsj.com/articles/new-biden-law-wont-kill-drug-cures-it-will-reshape-them-11673001018?st=b04qocoil0rnb5q" target="_blank">Wall Street Journal</a>
     abstract: How does a firm’s market power in existing products affect its incentives to innovate? We explore this fundamental question using granular project-level and firm-level data from the pharmaceutical industry, focusing on a particular mechanism through which incumbent firms maintain their market power&#58; “reverse payment” or “pay-for-delay” agreements to delay the market entry of competitors. We first show that when firms are unfettered in their use of “pay-for-delay” agreements, they reduce their innovation activities in response to the potential entry of direct competitors. We then examine a legal ruling that subjected these agreements to antitrust litigation, thereby reducing the incentive to enter them. After the ruling, incumbent firms increased their net innovation activities in response to competitive entry. These effects center on firms with products that are more directly affected by competition. However, at the product therapeutic area level, we find a reduction in innovation by new entrants after the ruling in response to increased competition. Overall, these results are consistent with firms having reduced incentives to innovate when they are able to maintain their market power, highlighting a specific channel through which this occurs. 
-
-items:
   - title: Hype
     description: <strong>Hype Cycles&#58; Dynamic Information Design with Two Audiences</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3923908" target="_blank">PDF</a>]
     authors: Xuelin Li, <a href="https://carlsonschool.umn.edu/faculty/martin-szydlowski" target="_blank">Martin Szydlowski</a>, and <a href="https://carlsonschool.umn.edu/faculty/fangyuan-yu" target="_blank">Fangyuan Yu</a>
-    publication: <strong><i>Journal of Economic Theory</i></strong>, conditionally accepted.
+    publication: <strong><i>Journal of Economic Theory</i></strong>, Accepted.
     numbering: 8
     abstract: We study dynamic Bayesian persuasion in an entry game. A sender publicly reveals information to an adopter and a competitor. When the sender's loss from competition is small, the optimal policy features hype cycles&#58; the sender first exaggerates the value of a technology to attract the adopter, and then reveals negative information to deter the competitor. Otherwise, the optimal policy features caution&#58; the sender first underplays the value of the technology and reveals positive information later. Hype cycles are more severe in stagnant industries and with higher threat of competition, and arise in industries where the adopter's and the competitor's entry decisions are complementary.
-  - title: opioidbank
-    description: <strong>Propagation of the Opioid Epidemic in the Banking Sector</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4148134" target="_blank">PDF</a>]
-    authors: Xuelin Li, and <a href="https://sites.google.com/view/zihanye/home" target="_blank">Zihan Ye</a>
-    numbering: 9
-    abstract: We examine how public health crises undermine bank deposit funding and constrain lending activities. Using the opioid epidemic as our empirical setting, we document a negative link between local opioid supply and deposit growth at both the county and bank levels. Facing deposit drains, banks systematically reduce lending activities, including mortgage origination and approval, even in distant regions connected to the epidemic areas through banking networks. These reductions are more pronounced for retained loans and concentrate in smaller banks facing greater financial frictions and lacking geographic diversification. Our findings highlight the challenges to bank operations arising from population health conditions.
+
+items:
   - title: rationedgrowth
     description: <strong>Appropriated Growth</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4244951" target="_blank">PDF</a>]
     authors: <a href = "https://sites.google.com/umn.edu/yuchen-chen" target="_blank">Yuchen Chen</a>, Xuelin Li, <a href = "https://carlsonschool.umn.edu/faculty/richard-thakor" target="_blank">Richard T. Thakor</a> and <a href="https://sites.google.com/site/cwardweb/colin-ward" target="_blank">Colin Ward</a>
-    numbering: 10
+    numbering: 9
     publication: <strong><i>Journal of Financial Economics</i></strong>, revise and resubmit.
     abstract: We assess how labor mobility affects intangible investment in a dynamic agency model featuring both knowledge appropriation and moral hazard. We argue that restricting worker mobility, while reducing employees' appropriation of firm intangible capital, can hurt their incentives to exert effort. Our calibration to U.S. data targets responses of employee turnover and firms' intangible investment to variations in workers' outside option values, identified through exogenous shocks to non-compete enforcement. The model simulation implies that knowledge spillovers mitigate the costs of incentive provision when agency frictions are severe, and the optimal labor mobility regulation should balance this benefit against turnover risk. Finally, we highlight the use of deferred compensation bonuses in the optimal contract as a retention mechanism, even among under-performing firms.
   - title: vcspecialize
     description: <strong>How Does VC Activism Backfire in Startup Experimentation?</strong> [<a href="https://papers.ssrn.com/abstract=4912335" target="_blank">PDF</a>]
     authors: Xuelin Li, <a href = "https://sme.cuhk.edu.cn/en/node/1873" target="_blank">Sijie Wang</a>, <a href = "https://www.jiajiexu.com/" target="_blank">Jiajie Xu</a> and <a href="https://www.xiangzheng.info/" target="_blank">Xiang Zheng</a>
-    numbering: 11
+    numbering: 10
+    coverage: Covered by <a href="https://www.promarket.org/2025/04/25/how-does-venture-capital-shapes-biotech-innovation/" target="_blank">ProMarket</a>
     abstract: We utilize granular data from the life sciences sector to study how VC activism influences strategic experimentation decisions. Active involvement by smaller, more focused VCs drives early pipeline prioritization, advancing a few projects while holding back most of the R&D portfolio. While this approach can create "blockbuster" IPOs with mature lead pipelines, it also reduces overall exit likelihood by sacrificing the benefits of a diversified pipeline. Startups backed by concentrated VCs progress more slowly in clinical trials on average and are more likely to discontinue projects due to prioritization rather than financial or quality concerns. Additionally, VCs may prioritize suboptimal projects due to investment horizons or concerns about portfolio cannibalization. Overall, this prioritization strategy increases failure risk particularly for high-risk, long-horizon technologies. To address endogeneity, we exploit limited partners’ adoption of ESG objectives as instruments for shifts in VCs’ portfolio focus.  
   - title: ai
     description: <strong>Can Decision Support Systems Distort Human Capital?</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4929303" target="_blank">PDF</a>]
     authors: Xuelin Li, and <a href="https://meizizhou.github.io/homepage/" target="_blank">Meizi Zhou</a>
     publication: <strong><i>Management Science</i></strong>, major revision.
-    numbering: 12
+    numbering: 11
     award: Best Paper Award, The 14th Annual Conference on Health IT and Analytics (CHITA 2024)
     abstract: We document that interactions with manipulated decision support systems can distort the development of human capital using the context of opioid prescription. Physicians in our sample adopted electronic health record software from a list of federally certified companies in 2011. Between 2016 and spring 2019, one company secretly embedded a biased decision support system function to promote extended-release opioid sales. Affected physicians not only increased opioid claims relative to the control group during the treatment window but also maintained a higher propensity for prescriptions even after the removal of the biased function. This long-term distortion of human capital relies on the unconsciousness of algorithmic biases and does not occur following other explicit promotions, such as pharmaceutical detailing payments. Using machine-learning algorithms, we quantify that human capital distortion explains 54% of the treatment effects in a physician decision model with dynamic learning. Experience with opioids, along with caution regarding elder patients, mitigates the distortion.
+  - title: opioidbank
+    description: <strong>Propagation of the Opioid Epidemic in the Banking Sector</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4148134" target="_blank">PDF</a>]
+    authors: Xuelin Li, and <a href="https://sites.google.com/view/zihanye/home" target="_blank">Zihan Ye</a>
+    numbering: 12
+    abstract: We examine how public health crises undermine bank deposit funding and constrain lending activities. Using the opioid epidemic as our empirical setting, we document a negative link between local opioid supply and deposit growth at both the county and bank levels. Facing deposit drains, banks systematically reduce lending activities, including mortgage origination and approval, even in distant regions connected to the epidemic areas through banking networks. These reductions are more pronounced for retained loans and concentrate in smaller banks facing greater financial frictions and lacking geographic diversification. Our findings highlight the challenges to bank operations arising from population health conditions.
 
 progress:
   - title: sofld
