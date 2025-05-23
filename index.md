@@ -24,7 +24,7 @@ My research bridges the studies on finance and healthcare, which are two crucial
 
 <strong style="color:#64a1bd">First Name Pronunciation:</strong>
 <ul>
-<li style="list-style-type:circle;font-size:14px">"shu-e-lin". Play sound below.</li>
+<li style="list-style-type:circle;font-size:14px">"shu-e-lin." Play sound below.</li>
 <li style="list-style-type:circle;font-size:14px"><audio id="eng_name">
   <source type="audio/mp3" src="media/xuelin.mp3"></source>
   <p>Your browser does not support the audio element.</p>
