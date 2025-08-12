@@ -6,7 +6,7 @@ pubs:
   - title: PHA
     description: <strong>Find and Replace&#58; R&D Investment Following the Erosion of Existing Products</strong> [<a href="https://www.dropbox.com/s/mchkrlilba17g54/mnsc.2021.4243.pdf?dl=0" target="_blank">PDF</a>]  [<a href="https://www.dropbox.com/s/4xwwueu9if4jlvf/mnsc.2021.4243.sm1.pdf?dl=0" target="_blank">Online Appendix</a>] 
     authors: <a href="https://www.hbs.edu/faculty/Pages/profile.aspx?facId=951435" target="_blank">Joshua L. Krieger</a>, Xuelin Li, and <a href="https://carlsonschool.umn.edu/faculty/richard-thakor" target="_blank">Richard T. Thakor</a> 
-    publication: <strong><i>Management Science</i></strong>, 68(9): 6552-6571 (September 2022).
+    publication: <strong><i>Management Science</i></strong>, 68(9), 6552-6571 (September 2022).
     numbering: 1
     abstract: How do innovative firms react when existing products experience negative shocks? We explore this question with detailed project-level data from drug development firms. Using FDA Public Health Advisories as idiosyncratic negative shocks to approved drugs, we examine how drug makers react through investment decisions. Following these shocks, affected firms increase R&D expenditures, driven by a higher likelihood of acquiring external innovations, rather than developing novel projects internally. Such acquisition activities are concentrated in firms with weak research pipelines. We also find that competing developers move resources away from the affected therapeutic areas. Our results show how investments in specialized commercialization capital create path dependencies and alter the direction of R&D investments.
   - title: VCPharm
@@ -43,7 +43,7 @@ pubs:
     numbering: 6
     abstract: We study pivots as signaling devices in a dynamic experimentation model. An entrepreneur receives funding from an investor and has private information about a project, which requires costly experimentation to succeed. The entrepreneur has a real option to pivot, i.e., to abandon the project and to start a new one. Investors learn about the project from the arrival of exogenous information and from the entrepreneur’s pivoting decisions. We characterize signaling equilibria in which high-skill entrepreneurs pivot early. Such early pivots are associated with a higher likelihood of success and with more favorable funding terms following the pivot.
   - title: Generic
-    description: <strong>Paying off the Competition&#58; Contracting, Market Power, and Innovation Incentives,</strong> National Bureau of Economic Research No.w28964 [<a href="https://www.nber.org/papers/w28964" target="_blank">PDF</a>]
+    description: <strong>Paying off the Competition&#58; Contracting, Market Power, and Innovation Incentives,</strong> [<a href="https://www.nber.org/papers/w28964" target="_blank">PDF</a>]
     authors: Xuelin Li, and <a href="https://alo.mit.edu/" target="_blank">Andrew W. Lo</a> and <a href="https://carlsonschool.umn.edu/faculty/richard-thakor" target="_blank">Richard T. Thakor</a>
     publication: <strong><i>Review of Finance</i></strong>, <i>Special Issue on Finance and Product Markets</i>, Accepted.
     numbering: 7
