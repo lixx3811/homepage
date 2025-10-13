@@ -22,6 +22,12 @@ My research bridges the studies on finance and healthcare, which are two crucial
 <li style="list-style-type:circle;font-size:14px">Information Economics.</li>
 </ul>
 
+<strong style="color:#64a1bd">Undergraduate/Master Students Pursing a PhD:</strong>
+<ul>
+<li style="list-style-type:circle;font-size:14px">I am seeking research assistants with strong backgrounds in natural language processing and computer science, on a rolling basis.</li>
+<li style="list-style-type:circle;font-size:14px">Priority will be given to Columbia students for ease of compensation and administrative processing.</li>
+</ul>
+
 <strong style="color:#64a1bd">First Name Pronunciation:</strong>
 <ul>
 <li style="list-style-type:circle;font-size:14px">"shu-e-lin." Play sound below.</li>
