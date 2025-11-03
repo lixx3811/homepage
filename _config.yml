@@ -14,7 +14,7 @@ header:
     - name: Home
       slug: /
     - name: Research
-    - name: Discussion&Teach
+    - name: Public Goods
 
 footer:
   show_powered_by: false
