@@ -15,6 +15,7 @@ header:
       slug: /
     - name: Research
     - name: Public Goods
+      slug: /publicgoods
 
 footer:
   show_powered_by: false
