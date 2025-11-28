@@ -4,13 +4,13 @@ title: Research
 slug: /Research
 pubs:
   - title: PHA
-    description: <strong>Find and Replace&#58; R&D Investment Following the Erosion of Existing Products</strong> [<a href="https://www.dropbox.com/s/mchkrlilba17g54/mnsc.2021.4243.pdf?dl=0" target="_blank">PDF</a>]  [<a href="https://www.dropbox.com/s/4xwwueu9if4jlvf/mnsc.2021.4243.sm1.pdf?dl=0" target="_blank">Online Appendix</a>] 
+    description: <strong>Find and Replace&#58; R&D Investment Following the Erosion of Existing Products</strong> [<a href="https://www.dropbox.com/s/mchkrlilba17g54/mnsc.2021.4243.pdf?dl=0" target="_blank">PDF</a>]
     authors: <a href="https://www.hbs.edu/faculty/Pages/profile.aspx?facId=951435" target="_blank">Joshua L. Krieger</a>, Xuelin Li, and <a href="https://carlsonschool.umn.edu/faculty/richard-thakor" target="_blank">Richard T. Thakor</a> 
     publication: <strong><i>Management Science</i></strong>, 68(9), 6552-6571 (September 2022).
     numbering: 1
     abstract: How do innovative firms react when existing products experience negative shocks? We explore this question with detailed project-level data from drug development firms. Using FDA Public Health Advisories as idiosyncratic negative shocks to approved drugs, we examine how drug makers react through investment decisions. Following these shocks, affected firms increase R&D expenditures, driven by a higher likelihood of acquiring external innovations, rather than developing novel projects internally. Such acquisition activities are concentrated in firms with weak research pipelines. We also find that competing developers move resources away from the affected therapeutic areas. Our results show how investments in specialized commercialization capital create path dependencies and alter the direction of R&D investments.
   - title: VCPharm
-    description: <strong>Common Ownership and Innovation Efficiency</strong> [<a href="https://www.dropbox.com/scl/fi/hlmybqnewxn185injxwpc/LLT_JFE_2023.pdf?rlkey=g8gn8e3m1hv7qk8xtehphhfvu&dl=0" target="_blank">PDF</a>]  [<a href="https://www.dropbox.com/s/jemf5sje5v8rn7v/OnlineAppendix_Li_Liu_Taylor.pdf?dl=0" target="_blank">Online Appendix</a>]
+    description: <strong>Common Ownership and Innovation Efficiency</strong> [<a href="https://www.dropbox.com/scl/fi/hlmybqnewxn185injxwpc/LLT_JFE_2023.pdf?rlkey=g8gn8e3m1hv7qk8xtehphhfvu&dl=0" target="_blank">PDF</a>]
     authors: Xuelin Li, <a href="https://sites.google.com/view/tongl" target="_blank">Tong Liu</a>, and <a href="http://finance-faculty.wharton.upenn.edu/luket/" target="_blank">Lucian A. Taylor</a>
     publication: <strong><i>Journal of Financial Economics</i></strong>, Volume 147, Issue 3, Pages 475-497 (March 2023).
     numbering: 2
@@ -43,7 +43,7 @@ pubs:
     numbering: 6
     abstract: We study pivots as signaling devices in a dynamic experimentation model. An entrepreneur receives funding from an investor and has private information about a project, which requires costly experimentation to succeed. The entrepreneur has a real option to pivot, i.e., to abandon the project and to start a new one. Investors learn about the project from the arrival of exogenous information and from the entrepreneur’s pivoting decisions. We characterize signaling equilibria in which high-skill entrepreneurs pivot early. Such early pivots are associated with a higher likelihood of success and with more favorable funding terms following the pivot.
   - title: Generic
-    description: <strong>Paying off the Competition&#58; Contracting, Market Power, and Innovation Incentives,</strong> [<a href="https://www.nber.org/papers/w28964" target="_blank">PDF</a>]
+    description: <strong>Paying off the Competition&#58; Contracting, Market Power, and Innovation Incentives,</strong> [<a href="https://www.dropbox.com/scl/fi/t8fjmucyrlojhx39igqe3/LLT_RF.pdf?rlkey=gh2s1kdiypmmov0xia30sixkp&dl=0" target="_blank">PDF</a>]
     authors: Xuelin Li, and <a href="https://alo.mit.edu/" target="_blank">Andrew W. Lo</a> and <a href="https://carlsonschool.umn.edu/faculty/richard-thakor" target="_blank">Richard T. Thakor</a>
     publication: <strong><i>Review of Finance</i></strong>, <i>Special Issue on Finance and Product Markets</i>, Forthcoming.
     numbering: 7
@@ -55,14 +55,14 @@ pubs:
     publication: <strong><i>Journal of Economic Theory</i></strong>, Volume 226, May 2025.
     numbering: 8
     abstract: We study dynamic Bayesian persuasion in an entry game. A sender publicly reveals information to an adopter and a competitor who decide when to irreversibly enter or exit a market. When the sender's loss from competition is small, the sender first provides information to attract the adopter, and then aims to reveal sufficiently negative information to deter the competitor. Otherwise, the optimal policy is reversed. The sender first aims to provide negative information to deter the competitor and then to reveal positive information to attract the adopter. We interpret the optimal policy as inducing hype cycles, and show that hype cycles are more severe in stagnant industries or with higher threat of competition.
-
-items:
   - title: rationedgrowth
-    description: <strong>Appropriated Growth</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4244951" target="_blank">PDF</a>]
+    description: <strong>Appropriated Growth</strong> [<a href="https://www.dropbox.com/scl/fi/la9ebfgnmkm5ptchatqx5/CLTW_JFE.pdf?rlkey=vf77fodea7wr00pa1ql22ainh&dl=0" target="_blank">PDF</a>]
     authors: <a href = "https://sites.google.com/umn.edu/yuchen-chen" target="_blank">Yuchen Chen</a>, Xuelin Li, <a href = "https://carlsonschool.umn.edu/faculty/richard-thakor" target="_blank">Richard T. Thakor</a> and <a href="https://sites.google.com/site/cwardweb/colin-ward" target="_blank">Colin Ward</a>
     numbering: 9
-    publication: <strong><i>Journal of Financial Economics</i></strong>, accepted.
+    publication: <strong><i>Journal of Financial Economics</i></strong>, Forthcoming.
     abstract: We assess how labor mobility affects intangible investment in a dynamic agency model featuring both knowledge appropriation and moral hazard. We argue that restricting worker mobility, while reducing employees' appropriation of firm intangible capital, can hurt their incentives to exert effort. Our calibration to U.S. data targets responses of employee turnover and firms' intangible investment to variations in workers' outside option values, identified through exogenous shocks to non-compete enforcement. The model simulation implies that knowledge spillovers mitigate the costs of incentive provision when agency frictions are severe, and the optimal labor mobility regulation should balance this benefit against turnover risk. Finally, we highlight the use of deferred compensation bonuses in the optimal contract as a retention mechanism, even among under-performing firms.
+
+items:
   - title: hh
     description: <strong> Hedging or Healing&#58; How Business Cycle Exposure Affects the Safety Net</strong> [<a href="https://papers.ssrn.com/abstract=5677662" target="_blank">PDF</a>]
     authors: <a href="https://directory.smeal.psu.edu/kjr15" target="_blank">Kimberly Cornaggia</a>, Xuelin Li, and <a href="https://sites.google.com/view/zihanye/home" target="_blank">Zihan Ye</a>
