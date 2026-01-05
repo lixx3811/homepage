@@ -6,6 +6,9 @@ slug: /publicgoods
 <h1 class="page-heading" style="color:#64a1bd">Discussion</h1>
 Selected discussions on papers related to healthcare in the finance and enconomic conferences can be found <a href="https://xuelin-li.notion.site/selected-discussion" target="_blank">here</a>.<br />
 
+<h1 class="page-heading" style="color:#64a1bd">Data</h1>
+<span style="color:#64a1bd"><strong>IRS Form 990 Data Cleaning For Non-Profit Hospitals&nbsp;</strong></span> This dataset provides cleaned IRS Form 990 data for non-profit hospitals (2011-2022) with three integrated components: organizational and financial information, facility-level details (financial assistance and community benefit policies), and joint venture/management company information. The datasets can be merged on organization identifier and year for comprehensive analysis of hospital financial performance, operations, and organizational structures <a href="https://open.substack.com/pub/sthindata/p/something-about-how-washington-pays?utm_campaign=post-expanded-share&utm_medium=web" target="_blank">https://data.mendeley.com/datasets/y3s6mxt7cm/2</a>.
+
 <h1 class="page-heading" style="color:#64a1bd">Something in the Data</h1>
 A blog about interesting patterns on health, finance, and something in between, from the data <a href="https://sthindata.substack.com/" target="_blank">here</a>.<br /> Featured blogs:
 <ul>
