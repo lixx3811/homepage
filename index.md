@@ -5,8 +5,7 @@ profile_picture:
   alt: website picture
 ---
 <strong style="color:#64a1bd">Biography:</strong>
-
-My research bridges the studies on finance and healthcare, which are two crucial academic fields in the broad economic literature. The connection is through two classical decisions in corporate finance: financing and investment. To conduct this research, I utilize novel datasets on granular operation and innovation information in the healthcare industry and apply both empirical and theoretical methods through the finance perspective. My research interest focuses on the financing of U.S. hospital industries and innovation investments in the healthcare industry. I am also a faculty member of the <a href="https://business.columbia.edu/healthcare/about/faculty" target="_blank">Healthcare and Pharmaceutical Management Program</a> at Columbia Business School.
+My research sits at the intersection of finance and healthcare, exploring how fundamental corporate finance decisions, specifically financing and investment, shape the economic landscape of the medical industry. By leveraging novel, granular datasets on healthcare operations and innovation, I apply both empirical and theoretical frameworks to analyze the U.S. hospital sector and the dynamics of pharmaceutical investment. I also serve as a faculty member of the <a href="https://business.columbia.edu/healthcare/about/faculty" target="_blank">Healthcare and Pharmaceutical Management Program</a> at Columbia Business School.
 
 <strong style="color:#64a1bd">Education:</strong>
 <ul>
