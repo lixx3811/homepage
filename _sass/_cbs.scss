@@ -1,0 +1,397 @@
+/**
+ * CBS Theme Styles
+ * Columbia Business School faculty website theme
+ */
+
+// CBS Color Variables
+$columbia-blue: #0078AB;
+$light-gray: #F1F4F7;
+$content-black: #333333;
+$white: #FFFFFF;
+
+/**
+ * Blue Hero Banner (Homepage only)
+ */
+.hero-banner {
+  background-color: $columbia-blue;
+  color: $white;
+  padding: 60px 40px;
+  width: 100%;
+  position: relative;
+
+  .hero-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .faculty-name {
+    font-size: 54px;
+    font-weight: bold;
+    color: $white;
+    margin: 0;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+  }
+
+  .page-nav {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+
+    a {
+      color: $white;
+      text-decoration: none;
+      font-size: 16px;
+      font-weight: 400;
+      transition: opacity 0.2s;
+
+      &:hover {
+        opacity: 0.8;
+      }
+    }
+
+    .separator {
+      color: $white;
+      user-select: none;
+    }
+  }
+}
+
+/**
+ * Light Gray Header Banner (Content pages)
+ */
+.content-header {
+  background-color: $light-gray;
+  color: $content-black;
+  padding: 20px 40px;
+  width: 100%;
+  border-bottom: 1px solid darken($light-gray, 10%);
+
+  .header-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .breadcrumb {
+    font-size: 18px;
+    font-weight: 400;
+    color: $content-black;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+
+    a {
+      color: $content-black;
+      text-decoration: none;
+
+      &:hover {
+        color: $columbia-blue;
+        text-decoration: none;
+      }
+    }
+
+    .arrow {
+      margin-left: 8px;
+      font-size: 14px;
+    }
+  }
+
+  .page-nav {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+
+    a {
+      color: $content-black;
+      text-decoration: none;
+      font-size: 16px;
+      font-weight: 400;
+      transition: all 0.2s;
+
+      &:hover {
+        color: $columbia-blue;
+      }
+
+      &.active {
+        font-weight: 500;
+        border-bottom: 2px solid $columbia-blue;
+        padding-bottom: 2px;
+      }
+    }
+
+    .separator {
+      color: $content-black;
+      user-select: none;
+    }
+  }
+}
+
+/**
+ * Homepage Bio Section
+ */
+.bio-section {
+  max-width: 1200px;
+  margin: 60px auto;
+  padding: 0 40px;
+  display: flex;
+  gap: 60px;
+  align-items: flex-start;
+
+  .headshot {
+    flex: 0 0 300px;
+    max-width: 300px;
+
+    img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+  }
+
+  .bio-content {
+    flex: 1;
+
+    .affiliation {
+      font-size: 16px;
+      line-height: 1.6;
+      margin-bottom: 8px;
+      color: #000000;
+    }
+
+    .cv-link {
+      font-size: 16px;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      color: #000000;
+
+      a {
+        color: $columbia-blue;
+        text-decoration: none;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+
+    .contact-info {
+      margin-top: 20px;
+      margin-bottom: 30px;
+      font-size: 16px;
+      line-height: 1.8;
+      color: #000000;
+
+      strong {
+        color: #000000;
+      }
+
+      a {
+        color: $columbia-blue;
+        text-decoration: none;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+
+    h2 {
+      font-size: 28px;
+      font-weight: bold;
+      color: $content-black;
+      margin-bottom: 20px;
+      margin-top: 30px;
+    }
+
+    p {
+      font-size: 16px;
+      line-height: 1.7;
+      color: $content-black;
+      margin-bottom: 16px;
+
+      a {
+        color: $columbia-blue;
+        text-decoration: none;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+}
+
+/**
+ * Research Page Styles
+ */
+.research-content {
+  max-width: 1200px;
+  margin: 40px auto;
+  padding: 0 40px;
+
+  h1 {
+    font-size: 32px;
+    font-weight: bold;
+    color: $content-black;
+    margin-bottom: 40px;
+    margin-top: 0;
+  }
+
+  h2 {
+    font-size: 28px;
+    font-weight: bold;
+    color: $content-black;
+    margin-top: 50px;
+    margin-bottom: 30px;
+  }
+
+  h3 {
+    font-size: 18px;
+    color: $content-black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+
+  p {
+    font-size: 16px;
+    line-height: 1.7;
+    color: $content-black;
+    margin-bottom: 16px;
+
+    a {
+      color: $columbia-blue;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  ul {
+    margin-bottom: 20px;
+    padding-left: 20px;
+
+    li {
+      font-size: 16px;
+      line-height: 1.7;
+      color: $content-black;
+      margin-bottom: 8px;
+
+      a {
+        color: $columbia-blue;
+        text-decoration: none;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+
+  strong {
+    color: $content-black;
+  }
+
+  .publication {
+    margin-bottom: 18px;
+    line-height: 1.5;
+
+    .pub-title {
+      color: $content-black;
+      text-decoration: none;
+      font-size: 16px;
+      font-weight: 400;
+
+      &:hover {
+        color: $columbia-blue;
+        text-decoration: underline;
+      }
+    }
+
+    .pub-authors {
+      color: #000000;
+      font-size: 16px;
+    }
+
+    .pub-venue {
+      font-style: italic;
+      color: $content-black;
+      font-size: 16px;
+    }
+
+    .pub-links {
+      display: inline;
+      margin-left: 4px;
+
+      a {
+        color: $columbia-blue;
+        text-decoration: none;
+        font-size: 14px;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+
+    .pub-note {
+      font-style: italic;
+      color: darken($content-black, 10%);
+      font-size: 16px;
+      display: block;
+    }
+  }
+}
+
+/**
+ * Responsive Design
+ */
+@media screen and (max-width: 800px) {
+  .hero-banner {
+    padding: 40px 20px;
+
+    .hero-content {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 20px;
+    }
+
+    .faculty-name {
+      font-size: 36px;
+    }
+
+    .page-nav {
+      flex-wrap: wrap;
+      gap: 15px;
+    }
+  }
+
+  .content-header {
+    padding: 15px 20px;
+
+    .header-content {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 15px;
+    }
+  }
+
+  .bio-section {
+    flex-direction: column;
+    padding: 0 20px;
+    margin: 40px auto;
+    gap: 30px;
+
+    .headshot {
+      max-width: 250px;
+    }
+  }
+
+  .research-content {
+    padding: 0 20px;
+  }
+}

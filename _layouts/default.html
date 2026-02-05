@@ -3,12 +3,29 @@
   {% include head.html %}
 
   <body>
-    {% include header.html %}
+    <!-- Light Gray Header Banner (Content Pages) -->
+    <div class="content-header">
+      <div class="header-content">
+        <div class="breadcrumb">
+          <a href="{{ site.baseurl }}/">{{ site.title }}</a><span class="arrow">›</span>
+        </div>
+        <nav class="page-nav">
+          <a href="{{ site.baseurl }}/">Home</a>
+          <span class="separator">|</span>
+          <a href="{{ site.baseurl }}/research">Research</a>
+          <span class="separator">|</span>
+          <a href="{{ site.baseurl }}/teaching">Teaching</a>
+          <span class="separator">|</span>
+          <a href="{{ site.baseurl }}/publicgoods">Public Goods</a>
+        </nav>
+      </div>
+    </div>
 
     <div class="page-content">
       <div class="wrapper">
         {{ content }}
       </div>
     </div>
+    {% include foot.html %}
   </body>
 </html>

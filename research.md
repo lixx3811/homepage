@@ -3,94 +3,71 @@ layout: work
 title: Research
 slug: /Research
 pubs:
-  - title: PHA
-    description: <strong>Find and Replace&#58; R&D Investment Following the Erosion of Existing Products</strong> [<a href="https://www.dropbox.com/s/mchkrlilba17g54/mnsc.2021.4243.pdf?dl=0" target="_blank">PDF</a>]
-    authors: <a href="https://www.hbs.edu/faculty/Pages/profile.aspx?facId=951435" target="_blank">Joshua L. Krieger</a>, Xuelin Li, and <a href="https://carlsonschool.umn.edu/faculty/richard-thakor" target="_blank">Richard T. Thakor</a> 
-    publication: <strong><i>Management Science</i></strong>, 68(9), 6552-6571 (September 2022).
-    numbering: 1
-    abstract: How do innovative firms react when existing products experience negative shocks? We explore this question with detailed project-level data from drug development firms. Using FDA Public Health Advisories as idiosyncratic negative shocks to approved drugs, we examine how drug makers react through investment decisions. Following these shocks, affected firms increase R&D expenditures, driven by a higher likelihood of acquiring external innovations, rather than developing novel projects internally. Such acquisition activities are concentrated in firms with weak research pipelines. We also find that competing developers move resources away from the affected therapeutic areas. Our results show how investments in specialized commercialization capital create path dependencies and alter the direction of R&D investments.
-  - title: VCPharm
-    description: <strong>Common Ownership and Innovation Efficiency</strong> [<a href="https://www.dropbox.com/scl/fi/hlmybqnewxn185injxwpc/LLT_JFE_2023.pdf?rlkey=g8gn8e3m1hv7qk8xtehphhfvu&dl=0" target="_blank">PDF</a>]
-    authors: Xuelin Li, <a href="https://sites.google.com/view/tongl" target="_blank">Tong Liu</a>, and <a href="http://finance-faculty.wharton.upenn.edu/luket/" target="_blank">Lucian A. Taylor</a>
-    publication: <strong><i>Journal of Financial Economics</i></strong>, Volume 147, Issue 3, Pages 475-497 (March 2023).
-    numbering: 2
-    coverage: Covered by <a href="https://knowledge.wharton.upenn.edu/article/luke-taylor-common-ownership-research/" target="_blank">Knowledge@Wharton</a>
-    abstract: How does common ownership affect innovation? We study this question using project-level data on pharmaceutical startups and their venture capital (VC) investors. We find that common ownership leads VCs to hold back projects, withhold funding, and redirect innovation at lagging startups. Effects are stronger where R&D costs are larger, consistent with common owners aiming to cut duplicate costs. Effects are also stronger where technological similarity is greater and preexisting competition is lower, consistent with common owners seeking market power for their surviving projects. Overall, common VC ownership appears to generate social benefits, via improved innovation efficiency, but also social costs.
-  - title: MoD
-    description: <strong>Merchants of Death&#58; The Effect of Credit Supply Shocks on Hospital Outcomes</strong> [<a href="https://www.dropbox.com/scl/fi/acvqwlil3jm51bxztz7m7/AKLT_Banking.pdf?rlkey=rnhl66kqkynau39jprpvwwrhv&dl=0" target="_blank">PDF</a>]
-    authors: <a href = "https://sites.google.com/site/cyrusaghamolla/home" target="_blank">Cyrus Aghamolla</a>, <a href = "https://carlsonschool.umn.edu/faculty/pinar-karaca-mandic" target="_blank">Pinar Karaca-Mandic</a>, Xuelin Li, and <a href = "https://carlsonschool.umn.edu/faculty/richard-thakor" target="_blank">Richard T. Thakor</a>
-    publication: <strong><i>American Economic Review</i></strong>,  Vol. 114, No. 11, pp. 3623–68, (November 2024).
-    numbering: 3
-    coverage: Covered by <a href="https://www.bloomberg.com/news/articles/2021-05-18/stress-tests-for-hospital-lenders-mean-more-pain-for-patients" target="_blank">Bloomberg</a><br> - Best Paper Award, 2022 Financial Markets and Corporate Governance Conference
-    abstract: This study examines the link between credit supply and hospital health outcomes. We use bank stress tests as exogenous shocks to credit access for hospitals that have lending relationships with tested banks. We find that affected hospitals shift their operations to increase resource utilization following a negative credit shock but reduce the quality of their care to patients across a variety of measures, including a significant increase in risk-adjusted readmission and mortality rates. The results indicate that access to credit can affect the quality of healthcare hospitals deliver, pointing to important spillover effects of credit market frictions on health outcomes.
-  - title: telemuni
-    description: <strong> Financial Effects of Remote Product Delivery&#58; Evidence from Hospitals</strong> [<a href="https://www.dropbox.com/scl/fi/a16f4ffoeeu0j38u3yyay/CLY_TeleMuni.pdf?rlkey=ukm0q2pm6mhhfrj2r6ejegowz&dl=0" target="_blank">PDF</a>]
-    authors: <a href="https://directory.smeal.psu.edu/kjr15" target="_blank">Kimberly Cornaggia</a>, Xuelin Li, and <a href="https://sites.google.com/view/zihanye/home" target="_blank">Zihan Ye</a>
-    publication: <strong><i>Review of Financial Studies</i></strong>, Volume 37, Issue 9, Pages 2817–2854 (September 2024).
-    numbering: 4
-    abstract: We study financial effects of remote product delivery in the healthcare industry. Exploiting staggered law adoption for identification, we find that telehealth provision redistributes hospital operations and access to capital away from rural communities. As urban telehealth providers acquire rural patients, rural hospitals experience decreased revenue and profit, credit rating downgrades, increased cost of capital, and ultimately risk of closure. Although telehealth reduces travel costs, some communities lose access to acute care. Overall, we conclude that remote healthcare services have financial consequences as well as real effects, and their benefits are unequally distributed.
-  - title: isr
-    description: <strong>Healthcare across Boundaries&#58; Urban-Rural Differences in the Financial and Healthcare Consequences of Telehealth Adoption</strong> [<a href="https://www.dropbox.com/scl/fi/9ev80ycn5w7kfmi80rjx8/ZLB_ISR.pdf?rlkey=6l9wog9xsykzluase6wytl7lg&dl=0" target="_blank">PDF</a>]
-    authors: <a href="https://meizizhou.github.io/homepage/" target="_blank">Meizi Zhou</a>, Xuelin Li, and <a href="https://www.bu.edu/questrom/profile/gordon-burtch/" target="_blank">Gordon Burtch</a>
-    publication: <strong><i>Information Systems Research</i></strong>,  Vol. 35, No. 3, pp. 1092–1113, (September 2024).
-    numbering: 5
-    award: Best Paper Award, 19th ZEW Conference on the Economics of Information and Communication Technologies
-    abstract: We study the impacts of telehealth adoption on geographic competition among urban and rural healthcare providers. We consider a quasinatural experiment&#58; states’ entry into the Interstate Medical Licensure Compact, wherein the entry events facilitate healthcare providers to adopt telehealth technology. By analyzing a representative sample of providers, we first establish the Compact entry shock’s validity and its positive effect on the supply of medical services. We then report evidence that there are service and payment shifts from rural providers to urban providers (i.e., urban providers are more likely to benefit from the Compact entry financially). Relying on patients’ telehealth reimbursement claim data, we observe two mechanisms contributing to the revenue redistribution&#58; the substitution and gateway effects of telehealth. Finally, we show that telehealth readiness and service quality moderate the impact of telehealth adoption. These findings speak to both potentially positive and negative consequences for welfare.
-  - title: Pivot
-    description: <strong>Aggressive Pivots and Entrepreneurial Skill</strong> [<a href="https://www.dropbox.com/scl/fi/uz54npgxaf8vrt1rvsji1/LS_AEJ.pdf?rlkey=dwch8j8yffqvq80i2xd6y5ya4&dl=0" target="_blank">PDF</a>]
-    authors: Xuelin Li, and <a href="https://sites.google.com/site/martinszydl/home" target="_blank">Martin Szydlowski</a>
-    publication: <strong><i>American Economic Journal&#58; Micro</i></strong>, Vol. 17, No. 2, pp. 28-65 (May 2025).
-    numbering: 6
-    abstract: We study pivots as signaling devices in a dynamic experimentation model. An entrepreneur receives funding from an investor and has private information about a project, which requires costly experimentation to succeed. The entrepreneur has a real option to pivot, i.e., to abandon the project and to start a new one. Investors learn about the project from the arrival of exogenous information and from the entrepreneur’s pivoting decisions. We characterize signaling equilibria in which high-skill entrepreneurs pivot early. Such early pivots are associated with a higher likelihood of success and with more favorable funding terms following the pivot.
-  - title: Generic
-    description: <strong>Paying off the Competition&#58; Contracting, Market Power, and Innovation Incentives,</strong> [<a href="https://www.dropbox.com/scl/fi/t8fjmucyrlojhx39igqe3/LLT_RF.pdf?rlkey=gh2s1kdiypmmov0xia30sixkp&dl=0" target="_blank">PDF</a>]
-    authors: Xuelin Li, and <a href="https://alo.mit.edu/" target="_blank">Andrew W. Lo</a> and <a href="https://carlsonschool.umn.edu/faculty/richard-thakor" target="_blank">Richard T. Thakor</a>
-    publication: <strong><i>Review of Finance</i></strong>, <i>Special Issue on Finance and Product Markets</i>, Forthcoming.
-    numbering: 7
-    coverage: Covered by <a href="https://voxeu.org/article/how-pay-delay-affects-competition-and-innovation-pharmaceutical-industry" target="_blank">VoxEU</a>, <a href="https://www.wsj.com/articles/new-biden-law-wont-kill-drug-cures-it-will-reshape-them-11673001018?st=b04qocoil0rnb5q" target="_blank">Wall Street Journal</a>
-    abstract: This paper explores the relationship between a firm’s legal contracting environment and its innovation incentives. Using granular data from the pharmaceutical industry, we examine a contracting mechanism through which incumbents maintain market power&#58; “pay-for-delay” agreements to delay the market entry of competitors. Exploiting a shock where such contracts become legally tenuous, we find that affected incumbents subsequently increase their innovation activity across a variety of project-level measures. Exploring the nature of this innovation, we also find that it is more “impactful” from a scientific and commercial standpoint. The results provide novel evidence that restricting the contracting space can boost innovation at the firm level. However, at the extensive margin we find a reduction in innovation by new entrants in response to increased competition, suggesting a nuanced effect on aggregate innovation.
-  - title: Hype
-    description: <strong>Dynamic information design in an entry game</strong> [<a href="https://www.sciencedirect.com/science/article/pii/S002205312500064X" target="_blank">PDF</a>]
-    authors: Xuelin Li, <a href="https://carlsonschool.umn.edu/faculty/martin-szydlowski" target="_blank">Martin Szydlowski</a>, and <a href="https://fin.sufe.edu.cn/Faculty/Resume/yufangyuan" target="_blank">Fangyuan Yu</a>
-    publication: <strong><i>Journal of Economic Theory</i></strong>, Volume 226, May 2025.
-    numbering: 8
-    abstract: We study dynamic Bayesian persuasion in an entry game. A sender publicly reveals information to an adopter and a competitor who decide when to irreversibly enter or exit a market. When the sender's loss from competition is small, the sender first provides information to attract the adopter, and then aims to reveal sufficiently negative information to deter the competitor. Otherwise, the optimal policy is reversed. The sender first aims to provide negative information to deter the competitor and then to reveal positive information to attract the adopter. We interpret the optimal policy as inducing hype cycles, and show that hype cycles are more severe in stagnant industries or with higher threat of competition.
-  - title: rationedgrowth
-    description: <strong>Appropriated Growth</strong> [<a href="https://www.dropbox.com/scl/fi/la9ebfgnmkm5ptchatqx5/CLTW_JFE.pdf?rlkey=vf77fodea7wr00pa1ql22ainh&dl=0" target="_blank">PDF</a>]
-    authors: <a href = "https://sites.google.com/umn.edu/yuchen-chen" target="_blank">Yuchen Chen</a>, Xuelin Li, <a href = "https://carlsonschool.umn.edu/faculty/richard-thakor" target="_blank">Richard T. Thakor</a> and <a href="https://sites.google.com/site/cwardweb/colin-ward" target="_blank">Colin Ward</a>
-    numbering: 9
-    publication: <strong><i>Journal of Financial Economics</i></strong>, Forthcoming.
-    abstract: We assess how labor mobility affects intangible investment in a dynamic agency model featuring both knowledge appropriation and moral hazard. We argue that restricting worker mobility, while reducing employees' appropriation of firm intangible capital, can hurt their incentives to exert effort. Our calibration to U.S. data targets responses of employee turnover and firms' intangible investment to variations in workers' outside option values, identified through exogenous shocks to non-compete enforcement. The model simulation implies that knowledge spillovers mitigate the costs of incentive provision when agency frictions are severe, and the optimal labor mobility regulation should balance this benefit against turnover risk. Finally, we highlight the use of deferred compensation bonuses in the optimal contract as a retention mechanism, even among under-performing firms.
+  - title: Find and Replace&#58; R&D Investment Following the Erosion of Existing Products
+    pdf: https://www.dropbox.com/s/mchkrlilba17g54/mnsc.2021.4243.pdf?dl=0
+    authors: Joshua L. Krieger, Xuelin Li, and Richard T. Thakor
+    venue: Management Science, 68(9), 6552-6571 (September 2022)
+
+  - title: Common Ownership and Innovation Efficiency
+    pdf: https://www.dropbox.com/scl/fi/hlmybqnewxn185injxwpc/LLT_JFE_2023.pdf?rlkey=g8gn8e3m1hv7qk8xtehphhfvu&dl=0
+    authors: Xuelin Li, Tong Liu, and Lucian A. Taylor
+    venue: Journal of Financial Economics, Volume 147, Issue 3, Pages 475-497 (March 2023)
+
+  - title: Merchants of Death&#58; The Effect of Credit Supply Shocks on Hospital Outcomes
+    pdf: https://www.dropbox.com/scl/fi/acvqwlil3jm51bxztz7m7/AKLT_Banking.pdf?rlkey=rnhl66kqkynau39jprpvwwrhv&dl=0
+    authors: Cyrus Aghamolla, Pinar Karaca-Mandic, Xuelin Li, and Richard T. Thakor
+    venue: American Economic Review, Vol. 114, No. 11, pp. 3623–68 (November 2024)
+    note: Best Paper Award, 2022 Financial Markets and Corporate Governance Conference
+
+  - title: Financial Effects of Remote Product Delivery&#58; Evidence from Hospitals
+    pdf: https://www.dropbox.com/scl/fi/a16f4ffoeeu0j38u3yyay/CLY_TeleMuni.pdf?rlkey=ukm0q2pm6mhhfrj2r6ejegowz&dl=0
+    authors: Kimberly Cornaggia, Xuelin Li, and Zihan Ye
+    venue: Review of Financial Studies, Volume 37, Issue 9, Pages 2817–2854 (September 2024)
+
+  - title: Healthcare across Boundaries&#58; Urban-Rural Differences in the Financial and Healthcare Consequences of Telehealth Adoption
+    pdf: https://www.dropbox.com/scl/fi/9ev80ycn5w7kfmi80rjx8/ZLB_ISR.pdf?rlkey=6l9wog9xsykzluase6wytl7lg&dl=0
+    authors: Meizi Zhou, Xuelin Li, and Gordon Burtch
+    venue: Information Systems Research, Vol. 35, No. 3, pp. 1092–1113 (September 2024)
+    note: Best Paper Award, 19th ZEW Conference on the Economics of Information and Communication Technologies
+
+  - title: Aggressive Pivots and Entrepreneurial Skill
+    pdf: https://www.dropbox.com/scl/fi/uz54npgxaf8vrt1rvsji1/LS_AEJ.pdf?rlkey=dwch8j8yffqvq80i2xd6y5ya4&dl=0
+    authors: Xuelin Li and Martin Szydlowski
+    venue: American Economic Journal&#58; Micro, Vol. 17, No. 2, pp. 28-65 (May 2025)
+
+  - title: Paying off the Competition&#58; Contracting, Market Power, and Innovation Incentives
+    pdf: https://www.dropbox.com/scl/fi/t8fjmucyrlojhx39igqe3/LLT_RF.pdf?rlkey=gh2s1kdiypmmov0xia30sixkp&dl=0
+    authors: Xuelin Li, Andrew W. Lo, and Richard T. Thakor
+    venue: Review of Finance, Special Issue on Finance and Product Markets, Forthcoming
+
+  - title: Dynamic Information Design in an Entry Game
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S002205312500064X
+    authors: Xuelin Li, Martin Szydlowski, and Fangyuan Yu
+    venue: Journal of Economic Theory, Volume 226 (May 2025)
+
+  - title: Appropriated Growth
+    pdf: https://www.dropbox.com/scl/fi/la9ebfgnmkm5ptchatqx5/CLTW_JFE.pdf?rlkey=vf77fodea7wr00pa1ql22ainh&dl=0
+    authors: Yuchen Chen, Xuelin Li, Richard T. Thakor, and Colin Ward
+    venue: Journal of Financial Economics, Volume 176 (February 2026)
 
 items:
-  - title: hh
-    description: <strong> Hedging or Healing&#58; How Business Cycle Exposure Affects the Safety Net</strong> [<a href="https://papers.ssrn.com/abstract=5677662" target="_blank">PDF</a>]
-    authors: <a href="https://directory.smeal.psu.edu/kjr15" target="_blank">Kimberly Cornaggia</a>, Xuelin Li, and <a href="https://sites.google.com/view/zihanye/home" target="_blank">Zihan Ye</a>
-    numbering: 10
-    abstract: Tax exemption and government support are intended to insulate non-profit hospitals from business cycles, who are expected to provide stable community benefits. This paper documents erosion in the stability of this social safety net. The rising popularity of high-deductible health plans (HDHPs) reduces insurance risk sharing and increases the cyclicality of hospital operations. Exogenous income shocks induce more ex post procyclical responses in hospital revenues and utilization in markets with higher pre-shock HDHP penetration. Claims data confirm that HDHP enrollees reduce inpatient visits in downturns, while hospitals cross-subsidize by raising prices for all patients. Ex ante, hospitals hedge this risk by cutting staff, investment, and uncompensated care. Surprisingly, mission-driven non-profit hospitals hedge more aggressively, reflecting their lack of geographic diversification and internal capital markets compared to large for-profit systems.
-  - title: vcspecialize
-    description: <strong>How Does VC Engagement Direct Startup Experimentation?</strong> [<a href="https://papers.ssrn.com/abstract=4912335" target="_blank">PDF</a>]
-    authors: Xuelin Li, <a href = "https://sme.cuhk.edu.cn/en/node/1873" target="_blank">Sijie Wang</a>, <a href = "https://www.jiajiexu.com/" target="_blank">Jiajie Xu</a> and <a href="https://www.xiangzheng.info/" target="_blank">Xiang Zheng</a>
-    numbering: 11
-    coverage: Covered by <a href="https://www.promarket.org/2025/04/25/how-does-venture-capital-shapes-biotech-innovation/" target="_blank">ProMarket</a>
-    abstract: We use granular data from the life sciences sector to study how VC engagement directs strategic experimentation. Active involvement by smaller, more focused VCs leads to early-stage pipeline prioritization, advancing a subset of projects while deprioritizing others. This strategy can produce ``blockbuster'' IPOs with mature lead assets but hurt startups by lowering the overall likelihood of exit. Startups backed by concentrated VCs progress more slowly in clinical trials on average and are more likely to discontinue projects due to prioritization rather than financial or quality concerns. We find that VC investors may prioritize therapeutic areas to align with limited investment horizons and to avoid portfolio cannibalization. Finally, we find that several VC-focused therapeutic areas, such as oncology, are less likely to receive final approval when backed by smaller or more specialized investors. 
-  - title: ai
-    description: <strong>The Impact of Manipulated CDS Algorithm on Opioid Prescription Decision  </strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4929303" target="_blank">PDF</a>]
-    authors: Xuelin Li, and <a href="https://meizizhou.github.io/homepage/" target="_blank">Meizi Zhou</a>
-    publication: <strong><i>Management Science</i></strong>, major revision.
-    numbering: 12
-    award: Best Paper Award, The 14th Annual Conference on Health IT and Analytics (CHITA 2024)
-    abstract: We document that interactions with manipulated Clinical Decision Support (CDS) systems can induce not only short-term but also long-term changes in physicians' opioid prescribing behavior. Physicians in our sample adopted electronic health record software from a list of federally certified vendors in 2011. Between 2016 and Spring 2019, one vendor secretly embedded a biased CDS function designed to promote extended-release opioid sales. Affected physicians not only increased opioid claims relative to the control group during the treatment window but also maintained a higher propensity to prescribe opioids even after the biased function was removed. This long-term behavioral change persisted even after affected physicians moved to new locations, changed their affiliations, or faced stricter state-level opioid regulations. Increasing physician awareness helped mitigate this impact. Using machine learning algorithms, we estimate that decision-making distortion accounts for approximately 54\% of the treatment effects in a physician decision model with dynamic learning.
-  - title: opioidbank
-    description: <strong>Propagation of the Opioid Epidemic in the Banking Sector</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4148134" target="_blank">PDF</a>]
-    authors: Xuelin Li, and <a href="https://sites.google.com/view/zihanye/home" target="_blank">Zihan Ye</a>
-    numbering: 13
-    abstract: We examine how public health crises undermine bank deposit funding and constrain lending activities. Using the opioid epidemic as our empirical setting, we document a negative link between local opioid supply and deposit growth at both the county and bank levels. Facing deposit drains, banks systematically reduce lending activities, including mortgage origination and approval, even in distant regions connected to the epidemic areas through banking networks. These reductions are more pronounced for retained loans and concentrate in smaller banks facing greater financial frictions and lacking geographic diversification. Our findings highlight the challenges to bank operations arising from population health conditions.
+  - title: Hedging or Healing&#58; How Business Cycle Exposure Affects the Safety Net
+    pdf: https://papers.ssrn.com/abstract=5677662
+    authors: Kimberly Cornaggia, Xuelin Li, and Zihan Ye
+
+  - title: How Does VC Engagement Direct Startup Experimentation?
+    pdf: https://papers.ssrn.com/abstract=4912335
+    authors: Xuelin Li, Sijie Wang, Jiajie Xu, and Xiang Zheng
+
+  - title: The Impact of Manipulated CDS Algorithm on Opioid Prescription Decision
+    pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4929303
+    authors: Xuelin Li and Meizi Zhou
+    venue: Management Science, major revision
+    note: Best Paper Award, The 14th Annual Conference on Health IT and Analytics (CHITA 2024)
+
+  - title: Propagation of the Opioid Epidemic in the Banking Sector
+    pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4148134
+    authors: Xuelin Li and Zihan Ye
 
 progress:
-  - title: sofld
-    description: <strong>The Social Cost of Liquidity Disclosure&#58; Evidence from Hospitals</strong>
-    numbering: 1
-    authors: <a href = "https://sites.google.com/view/thomasbourveau/" target="_blank">Thomas Bourveau</a>, <a href = "https://www.columbia.edu/~xg2285/" target="_blank">Xavier Giroud</a>, <a href = "https://www.yifan-ji.com/" target="_blank">Yifan Ji</a>, and Xuelin Li
-    award: Winner of the 2024 John L. Weinberg/IRRCi Research Paper Competition
 ---

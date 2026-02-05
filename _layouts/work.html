@@ -3,82 +3,77 @@
   {% include head.html %}
 
   <body>
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        <div class="work">
-          <h1 class="page-heading" style="color:#64a1bd">Publication</h1>
-          {% for item in page.pubs %}
-          <div class="work-item" style="margin-bottom: -2em;">
-            <span class="work-text">
-              <span style="color:#64a1bd"><strong>&nbsp;{{ item.numbering }}&nbsp;</strong></span>
-              {{ item.description }}<br />
-              {{ item.authors }}<br />
-              {% if item.publication != "" and item.publication != nil %}
-                {{ item.publication }}<br />
-              {% endif %}
-              {% if item.coverage != "" and item.coverage != nil %}
-                <p style="margin: 0em;"> - {{ item.coverage }}</p>
-              {% endif %}
-              {% if item.award != "" and item.award != nil %}
-                <p style="margin: 0em;"> - {{ item.award }}</p>
-              {% endif %}
-              <details>
-                <summary>Click for Abstract</summary>
-                  {{ item.abstract }}
-              </details>
-            </span>
-          </div>
-          {% endfor %}
-
-          <h1 class="page-heading" style="color:#64a1bd">Working Paper</h1>
-
-
-          {% for item in page.items %}
-          <div class="work-item" style="margin-bottom: -2em;">
-            <span class="work-text">
-              <span style="color:#64a1bd"><strong>&nbsp;{{ item.numbering }}&nbsp;</strong></span>
-              {{ item.description }}<br />
-              {{ item.authors }}<br />
-              {% if item.publication != "" and item.publication != nil %}
-                {{ item.publication }}<br />
-              {% endif %}
-              {% if item.coverage != "" and item.coverage != nil %}
-                <p style="margin: 0em;"> - {{ item.coverage }}</p>
-              {% endif %}
-              {% if item.award != "" and item.award != nil %}
-                <p style="margin: 0em;"> - {{ item.award }}</p>
-              {% endif %}
-              <details>
-                <summary>Click for Abstract</summary>
-                  {{ item.abstract }}
-              </details>
-            </span>
-          </div>
-          {% endfor %}
-          <h1 class="page-heading" style="color:#64a1bd">In Progress</h1>
-          {% for item in page.progress %}
-          <div class="work-item" style="margin-bottom: -2em;">
-            <span class="work-text">
-              <span style="color:#64a1bd"><strong>&nbsp;{{ item.numbering }}&nbsp;</strong></span>
-              {{ item.description }}<br />
-              {{ item.authors }}<br />
-              {% if item.publication != "" and item.publication != nil %}
-                {{ item.publication }}<br />
-              {% endif %}
-              {% if item.coverage != "" and item.coverage != nil %}
-                <p style="margin: 0em;"> - {{ item.coverage }}</p>
-              {% endif %}
-              {% if item.award != "" and item.award != nil %}
-                <p style="margin: 0em;"> - {{ item.award }}</p>
-              {% endif %}
-            </span>
-          </div>
-          {% endfor %}
+    <!-- Light Gray Header Banner (Content Pages) -->
+    <div class="content-header">
+      <div class="header-content">
+        <div class="breadcrumb">
+          <a href="{{ site.baseurl }}/">{{ site.title }}</a><span class="arrow">›</span>
         </div>
+        <nav class="page-nav">
+          <a href="{{ site.baseurl }}/">Home</a>
+          <span class="separator">|</span>
+          <a href="{{ site.baseurl }}/research" class="active">Research</a>
+          <span class="separator">|</span>
+          <a href="{{ site.baseurl }}/teaching">Teaching</a>
+          <span class="separator">|</span>
+          <a href="{{ site.baseurl }}/publicgoods">Public Goods</a>
+        </nav>
       </div>
     </div>
-  {% include foot.html %}
+
+    <!-- Research Content -->
+    <div class="research-content">
+      <h1>Publications</h1>
+      {% for item in page.pubs %}
+      <div class="publication">
+        <a href="{{ item.pdf }}" class="pub-title" target="_blank">{{ item.title }}</a>, {{ item.authors }}<br>
+        <span class="pub-venue">{{ item.venue }}</span>
+        {% if item.links %}
+        <span class="pub-links">
+          {% for link in item.links %}
+          [<a href="{{ link.url }}" target="_blank">{{ link.text }}</a>]
+          {% endfor %}
+        </span>
+        {% endif %}
+        {% if item.note %}
+        <span class="pub-note">{{ item.note }}</span>
+        {% endif %}
+      </div>
+      {% endfor %}
+
+      {% if page.items and page.items.size > 0 %}
+      <h2>Working Papers</h2>
+      {% for item in page.items %}
+      <div class="publication">
+        <a href="{{ item.pdf }}" class="pub-title" target="_blank">{{ item.title }}</a>, {{ item.authors }}<br>
+        <span class="pub-venue">{{ item.venue }}</span>
+        {% if item.links %}
+        <span class="pub-links">
+          {% for link in item.links %}
+          [<a href="{{ link.url }}" target="_blank">{{ link.text }}</a>]
+          {% endfor %}
+        </span>
+        {% endif %}
+        {% if item.note %}
+        <span class="pub-note">{{ item.note }}</span>
+        {% endif %}
+      </div>
+      {% endfor %}
+      {% endif %}
+
+      {% if page.progress and page.progress.size > 0 %}
+      <h2>Work in Progress</h2>
+      {% for item in page.progress %}
+      <div class="publication">
+        {{ item.title }}, {{ item.authors }}
+        {% if item.note %}
+        <span class="pub-note">{{ item.note }}</span>
+        {% endif %}
+      </div>
+      {% endfor %}
+      {% endif %}
+    </div>
+
+    {% include foot.html %}
   </body>
 </html>
