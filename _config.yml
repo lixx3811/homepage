@@ -4,8 +4,8 @@
 title: Xuelin Li
 description: >- # this means to ignore newlines until "baseurl:"
   Assistant Professor of Finance, Columbia Business School.
-baseurl: "/homepage" # the subpath of the site
-url: "https://lixx3811.github.io" # the base hostname & protocol for the site
+baseurl: "" # the subpath of the site
+url: "https://xuelinli.com" # the base hostname & protocol for the site
 og_image: /assets/img/photo.jpg
 google_analytics: "UA-147588751-1"
 
