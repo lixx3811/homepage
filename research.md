@@ -50,6 +50,12 @@ pubs:
     authors: Yuchen Chen, Xuelin Li, Richard T. Thakor, and Colin Ward
     venue: Journal of Financial Economics, Volume 176 (February 2026)
 
+  - title: The Impact of Manipulated CDS Algorithm on Opioid Prescription Decision
+    pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4929303
+    authors: Xuelin Li and Meizi Zhou
+    venue: Management Science, Accepted
+    note: Best Paper Award, The 14th Annual Conference on Health IT and Analytics (CHITA 2024)
+
 items:
   - title: Hedging or Healing&#58; How Business Cycle Exposure Affects the Safety Net
     pdf: https://papers.ssrn.com/abstract=5677662
@@ -58,12 +64,6 @@ items:
   - title: How Does VC Engagement Direct Startup Experimentation?
     pdf: https://papers.ssrn.com/abstract=4912335
     authors: Xuelin Li, Sijie Wang, Jiajie Xu, and Xiang Zheng
-
-  - title: The Impact of Manipulated CDS Algorithm on Opioid Prescription Decision
-    pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4929303
-    authors: Xuelin Li and Meizi Zhou
-    venue: Management Science, major revision
-    note: Best Paper Award, The 14th Annual Conference on Health IT and Analytics (CHITA 2024)
 
   - title: Propagation of the Opioid Epidemic in the Banking Sector
     pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4148134
