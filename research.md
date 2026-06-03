@@ -61,6 +61,14 @@ items:
     pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6597798
     authors: Xuelin Li
 
+  - title: Rating Without Market Discipline
+    pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6859158
+    authors: Xuelin Li, Simon Oh, and Giacomo Ricciardi
+
+  - title: Retention Costs or Human Capital Investments&#58; A Dual Perspective on Employer-Sponsored Health Benefits
+    pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5429635
+    authors: Xuelin Li and (Joy) Tianjiao Tong
+
   - title: Hedging or Healing&#58; How Business Cycle Exposure Affects the Safety Net
     pdf: https://papers.ssrn.com/abstract=5677662
     authors: Kimberly Cornaggia, Xuelin Li, and Zihan Ye
