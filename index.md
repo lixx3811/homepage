@@ -8,7 +8,7 @@ profile_picture:
 <p class="affiliation">Finance Division, Columbia Business School</p>
 <p class="affiliation">Assistant Professor of Finance</p>
 
-<p class="cv-link"><a href="https://www.dropbox.com/scl/fi/hr5s9g9rxxbez21rdvb3y/CV_Xuelin.pdf?rlkey=jxo89p57nyn63276ufwej74l3&dl=0" target="_blank">Curriculum Vitae</a></p>
+<p class="cv-link"><a href="https://www.dropbox.com/scl/fi/7yefzhicvm866z9kf86vf/CV_Xuelin.pdf?rlkey=myh0fvyl5ieoglb824oz7kass&dl=0" target="_blank">Curriculum Vitae</a></p>
 
 <div class="contact-info">
 <strong>Email:</strong> <a href="mailto:xuelin.li@columbia.edu">xuelin.li@columbia.edu</a><br>
