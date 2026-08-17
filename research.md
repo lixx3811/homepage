@@ -38,7 +38,7 @@ pubs:
   - title: Paying off the Competition&#58; Contracting, Market Power, and Innovation Incentives
     pdf: https://www.dropbox.com/scl/fi/t8fjmucyrlojhx39igqe3/LLT_RF.pdf?rlkey=gh2s1kdiypmmov0xia30sixkp&dl=0
     authors: Xuelin Li, Andrew W. Lo, and Richard T. Thakor
-    venue: Review of Finance, Special Issue on Finance and Product Markets, Forthcoming
+    venue: Review of Finance, Volume 30, Issue 4 (July 2026)
 
   - title: Dynamic Information Design in an Entry Game
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S002205312500064X
@@ -51,9 +51,9 @@ pubs:
     venue: Journal of Financial Economics, Volume 176 (February 2026)
 
   - title: The Impact of Manipulated CDS Algorithm on Opioid Prescription Decision
-    pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4929303
+    pdf: https://www.dropbox.com/scl/fi/67kvsdlgsy7ic2ywc5s26/Li_Zhou_MS_2026.pdf?rlkey=rx8f3tl6l91ixvkvo15q0ubpa&dl=0
     authors: Xuelin Li and Meizi Zhou
-    venue: Management Science, Accepted
+    venue: Management Science, Forthcoming
     note: Best Paper Award, The 14th Annual Conference on Health IT and Analytics (CHITA 2024)
 
 items:
