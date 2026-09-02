@@ -57,6 +57,10 @@ pubs:
     note: Best Paper Award, The 14th Annual Conference on Health IT and Analytics (CHITA 2024)
 
 items:
+  - title: Financing Experimentation
+    pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3861355
+    authors: Xuelin Li and Tong Liu
+
   - title: Taxing Executive Compensation for Social Missions
     pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6597798
     authors: Xuelin Li
@@ -76,10 +80,6 @@ items:
   - title: How Does VC Engagement Direct Startup Experimentation?
     pdf: https://papers.ssrn.com/abstract=4912335
     authors: Xuelin Li, Sijie Wang, Jiajie Xu, and Xiang Zheng
-
-  - title: Propagation of the Opioid Epidemic in the Banking Sector
-    pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4148134
-    authors: Xuelin Li and Zihan Ye
 
 progress:
 ---
