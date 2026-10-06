@@ -57,6 +57,10 @@ pubs:
     note: Best Paper Award, The 14th Annual Conference on Health IT and Analytics (CHITA 2024)
 
 items:
+  - title: The Cost of Charitable Care&#58; Resource Externalities and the Value of Insurance
+    pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7549958
+    authors: Xuelin Li, Tong Liu, and Benjamin Vatter
+
   - title: Financing Experimentation
     pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3861355
     authors: Xuelin Li and Tong Liu
