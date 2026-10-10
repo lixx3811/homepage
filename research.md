@@ -72,6 +72,7 @@ items:
   - title: Rating Without Market Discipline
     pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6859158
     authors: Xuelin Li, Simon Oh, and Giacomo Ricciardi
+    note: 2026 Jack Treynor Prize
 
   - title: Retention Costs or Human Capital Investments&#58; A Dual Perspective on Employer-Sponsored Health Benefits
     pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5429635
