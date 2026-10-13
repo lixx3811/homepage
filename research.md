@@ -64,6 +64,7 @@ items:
   - title: Financing Experimentation
     pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3861355
     authors: Xuelin Li and Tong Liu
+    venue: Journal of Financial Economics, Invited for Dual Submission
 
   - title: Taxing Executive Compensation for Social Missions
     pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6597798
